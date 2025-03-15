@@ -19,7 +19,8 @@ If you want to contribute to this list, welcome to send me a pull request or con
 + [Datasets](#datasets)
 + [Reconstruction Error](#reconstruction-error)
 + [Vision fondation model related](#vision-fondation-model-related)
-
++ [Over-fitting](#over-fitting)
++ [Training-free](#training-free)
 + [Patch](#patch)
 + [LLM](#llm)
 + [Noise fingerprint](#noise-fingerprint)
@@ -36,6 +37,8 @@ If you want to contribute to this list, welcome to send me a pull request or con
 
 + [A Sanity Check for AI-generated Image Detection](https://arxiv.org/abs/2406.19435) (Shilin Yan et al., ICLR 2025) [:octocat:](https://github.com/shilinyan99/AIDE) [:bricks:](https://github.com/shilinyan99/AIDE#-chameleon)
 
++ [**ImagiNet**: A Multi-Content Dataset for Generalizable Synthetic Image Detection via Contrastive Learning](https://arxiv.org/abs/2407.20020v3) (Delyan Boychev et al., ECCV 2024) [:octocat:](https://github.com/delyan-boychev/imaginet) [:bricks:](https://huggingface.co/datasets/delyanboychev/imaginet)
+
 + [**DRCT**: Diffusion Reconstruction Contrastive Training towards Universal Detection of Diffusion Generated Images](https://arxiv.org/abs/1912.11035) (Baoying Chen et al., ICML 2024) [:octocat:](https://github.com/beibuwandeluori/DRCT) [:bricks:](https://modelscope.cn/datasets/BokingChen/DRCT-2M/files)
 
 + [**GenImage**: A Million-Scale Benchmark for Detecting AI-Generated Image](https://arxiv.org/abs/1912.11035) (Mingjian Zhu et al., NeurIPS 2023) [:globe_with_meridians:](https://genimage-dataset.github.io/) [:octocat:](https://github.com/GenImage-Dataset/GenImage) [:bricks:](https://github.com/GenImage-Dataset/GenImage#dataset)
@@ -50,12 +53,9 @@ If you want to contribute to this list, welcome to send me a pull request or con
 
 + [DRCT: Diffusion Reconstruction Contrastive Training towards Universal Detection of Diffusion Generated Images](https://arxiv.org/abs/1912.11035) (Baoying Chen et al., ICML 2024) [:octocat:](https://github.com/beibuwandeluori/DRCT)
 
-+ [FakeInversion: Learning to Detect Images from Unseen
-Text-to-Image Models by Inverting Stable Diffusion](https://arxiv.org/abs/2406.08603) (George Cazenavette et al., CVPR 2024) [:globe_with_meridians:](https://fake-inversion.github.io/)
++ [FakeInversion: Learning to Detect Images from Unseen Text-to-Image Models by Inverting Stable Diffusion](https://arxiv.org/abs/2406.08603) (George Cazenavette et al., CVPR 2024) [:globe_with_meridians:](https://fake-inversion.github.io/)
 
-+ [LaRE^2
-: Latent Reconstruction Error Based Method
-for Diffusion-Generated Image Detection](https://openaccess.thecvf.com/content/CVPR2024/html/Luo_LaRE2_Latent_Reconstruction_Error_Based_Method_for_Diffusion-Generated_Image_Detection_CVPR_2024_paper.html) (Yunpeng Luo et al., CVPR 2024) [:octocat:](https://github.com/luo3300612/LaRE)
++ [LaRE^2: Latent Reconstruction Error Based Method for Diffusion-Generated Image Detection](https://openaccess.thecvf.com/content/CVPR2024/html/Luo_LaRE2_Latent_Reconstruction_Error_Based_Method_for_Diffusion-Generated_Image_Detection_CVPR_2024_paper.html) (Yunpeng Luo et al., CVPR 2024) [:octocat:](https://github.com/luo3300612/LaRE)
 
 + [AEROBLADE: Training-Free Detection of Latent Diffusion Images Using Autoencoder Reconstruction Error](https://openaccess.thecvf.com/content/CVPR2024/html/Ricker_AEROBLADE_Training-Free_Detection_of_Latent_Diffusion_Images_Using_Autoencoder_Reconstruction_CVPR_2024_paper.html) (Jonas Ricker et al., CVPR 2024) [:octocat:](https://github.com/jonasricker/aeroblade)
 
@@ -77,9 +77,21 @@ for Diffusion-Generated Image Detection](https://openaccess.thecvf.com/content/C
 
 + [Towards Universal Fake Image Detectors that Generalize Across Generative Models](https://arxiv.org/abs/2302.10174) (Utkarsh Ojha et al., CVPR 2023) [:octocat:](https://github.com/WisconsinAIVision/UniversalFakeDetect) 
 
-## Zero-shot
+## over-fitting
 
-+ [Zero-Shot Detection of AI-Generated Images](https://arxiv.org/abs/2409.15875) (Davide Cozzolino, ECCV 2024)[:globe_with_meridians:](https://grip-unina.github.io/ZED/)[:octocat:](https://github.com/grip-unina/ZED/)
++ [Aligned Datasets Improve Detection of Latent Diffusion-Generated Images](https://openreview.net/pdf?id=doBkiqESYq) (Anirudh Sundara Rajan et al., ICLR 2025) [:globe_with_meridians:](https://anisundar18.github.io/AlignedForensics/) [:octocat:](https://github.com/AniSundar18/AlignedForensics) 
+
++ [Orthogonal Subspace Decomposition for Generalizable AI-Generated Image Detection](https://arxiv.org/pdf/2411.15633) (Zhiyuan Yan et al., arxiv 2024)
+
+## Training-free
+
++ [Manifold Induced Biases for Zero-shot and Few-shot Detection of Generated Images](https://openreview.net/pdf?id=7gGl6HB5Zd) (Jonathan Brokman et al., ICLR 2025)
+
++ [Zero-Shot Detection of AI-Generated Images](https://arxiv.org/abs/2409.15875) (Davide Cozzolino et al., ECCV 2024)[:globe_with_meridians:](https://grip-unina.github.io/ZED/)[:octocat:](https://github.com/grip-unina/ZED/)
+
++ [AEROBLADE: Training-Free Detection of Latent Diffusion Images Using Autoencoder Reconstruction Error](https://openaccess.thecvf.com/content/CVPR2024/html/Ricker_AEROBLADE_Training-Free_Detection_of_Latent_Diffusion_Images_Using_Autoencoder_Reconstruction_CVPR_2024_paper.html) (Jonas Ricker et al., CVPR 2024) [:octocat:](https://github.com/jonasricker/aeroblade)
+
++ [RIGID: A Training-Free and Model-Agnostic Framework for Robust AI-Generated Image Detection](https://arxiv.org/abs/2405.20112) (Davide Cozzolino et al., arxiv 2024)
 
 
 ## Patch
@@ -117,6 +129,8 @@ for Diffusion-Generated Image Detection](https://openaccess.thecvf.com/content/C
 
 ## Frequency domain
 
++ [Any-Resolution AI-Generated Image Detection by Spectral Learning](https://arxiv.org/abs/2411.19417v1) (Dimitrios Karageorgiou et al., arxiv 2024)
+
 + [Frequency-aware deepfake detection: Improving generalizability through frequency space domain learning](https://ojs.aaai.org/index.php/AAAI/article/view/28310) (Chuangchuang Tan et al., AAAI 2024) [:octocat:](https://github.com/chuangchuangtan/FreqNet-DeepfakeDetection) 
 
 + [Leveraging frequency analysis for deep fake image recognition](https://proceedings.mlr.press/v119/frank20a) (Zhengzhe Liu et al., ICML 2020) [:octocat:](https://github.com/RUB-SysSec/GANDCTAnalysis) 
@@ -128,7 +142,6 @@ for Diffusion-Generated Image Detection](https://openaccess.thecvf.com/content/C
 + [SIDBench: A Python framework for reliably assessing synthetic image detection methods](https://dl.acm.org/doi/abs/10.1145/3643491.3660277) (Manos Schinas et al., MAD Workshop 2024) [:octocat:](https://github.com/mever-team/sidbench)
 
 + [PatchCraft: Exploring Texture Patch for Efficient AI-generated Image Detection](https://arxiv.org/abs/2311.12397v3) (Nan Zhong et al., arxiv 2023) [:globe_with_meridians:](https://fdmas.github.io/AIGCDetect/) [:octocat:](https://github.com/Ekko-zn/AIGCDetectBenchmark)
-
 
 
 ## Citing Awesome AI-generated Image Detection
