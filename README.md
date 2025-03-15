@@ -55,6 +55,10 @@ If you want to contribute to this list, welcome to send me a pull request or con
 
 + [FIRE: Robust Detection of Diffusion-Generated Images via Frequency-Guided Reconstruction Error](https://arxiv.org/abs/2412.07140v2) (Beilin Chu et al., CVPR 2025) [:octocat:](https://github.com/Chuchad/FIRE)
 
++ [ReTD: Reconstruction-Based Traceability Detection for Generated Images](https://ieeexplore.ieee.org/abstract/document/10890492) (Weizhou Chen et al., ICASSP 2025) [:octocat:](https://github.com/chenweizhuo/ReTD)
+
++ [Spatial-Temporal Reconstruction Error for AIGC-based Forgery Image Detection](https://ieeexplore.ieee.org/abstract/document/10890455) (Chengji Shen et al., ICASSP 2025)
+
 + [Time Step Generating: A Universal Synthesized Deepfake Image Detector](https://arxiv.org/abs/2411.11016v2) (Ziyue Zeng et al., arxiv 2024) [:octocat:](https://github.com/NuayHL/TimeStepGenerating)
 
 + [DRCT: Diffusion Reconstruction Contrastive Training towards Universal Detection of Diffusion Generated Images](https://arxiv.org/abs/1912.11035) (Baoying Chen et al., ICML 2024) [:octocat:](https://github.com/beibuwandeluori/DRCT)
