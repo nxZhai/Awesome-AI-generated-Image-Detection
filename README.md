@@ -19,9 +19,10 @@ If you want to contribute to this list, welcome to send me a pull request or con
 + [Datasets](#datasets)
 + [Reconstruction Error](#reconstruction-error)
 + [Vision fondation model related](#vision-fondation-model-related)
-+ [Over-fitting](#over-fitting)
++ [Dataset bias](#dataset-bias)
 + [Training-free](#training-free)
 + [transformation](#transformation)
+
 + [Patch](#patch)
 + [LLM](#llm)
 + [Noise fingerprint](#noise-fingerprint)
@@ -42,6 +43,8 @@ If you want to contribute to this list, welcome to send me a pull request or con
 
 + [**DRCT**: Diffusion Reconstruction Contrastive Training towards Universal Detection of Diffusion Generated Images](https://arxiv.org/abs/1912.11035) (Baoying Chen et al., ICML 2024) [:octocat:](https://github.com/beibuwandeluori/DRCT) [:bricks:](https://modelscope.cn/datasets/BokingChen/DRCT-2M/files)
 
++ [**Synthbuster**: Towards detection of diffusion model generated images.](https://ieeexplore.ieee.org/document/10334046) [:bricks:](https://www.veraai.eu/posts/dataset-synthbuster-towards-detection-of-diffusion-model-generated-images)
+
 + [**GenImage**: A Million-Scale Benchmark for Detecting AI-Generated Image](https://arxiv.org/abs/1912.11035) (Mingjian Zhu et al., NeurIPS 2023) [:globe_with_meridians:](https://genimage-dataset.github.io/) [:octocat:](https://github.com/GenImage-Dataset/GenImage) [:bricks:](https://github.com/GenImage-Dataset/GenImage#dataset)
 
 + [**CNNDetect**: CNN-generated images are surprisingly easy to spot...for now](https://arxiv.org/abs/1912.11035) (Sheng-Yu Wang et al., CVPR 2020) [:globe_with_meridians:](https://peterwang512.github.io/CNNDetection/) [:octocat:](https://github.com/peterwang512/CNNDetection) [:bricks:](https://github.com/peterwang512/CNNDetection?tab=readme-ov-file#3-dataset)
@@ -51,6 +54,8 @@ If you want to contribute to this list, welcome to send me a pull request or con
 ## Reconstruction Error
 
 + [FIRE: Robust Detection of Diffusion-Generated Images via Frequency-Guided Reconstruction Error](https://arxiv.org/abs/2412.07140v2) (Beilin Chu et al., CVPR 2025) [:octocat:](https://github.com/Chuchad/FIRE)
+
++ [Time Step Generating: A Universal Synthesized Deepfake Image Detector](https://arxiv.org/abs/2411.11016v2) (Ziyue Zeng et al., arxiv 2024) [:octocat:](https://github.com/NuayHL/TimeStepGenerating)
 
 + [DRCT: Diffusion Reconstruction Contrastive Training towards Universal Detection of Diffusion Generated Images](https://arxiv.org/abs/1912.11035) (Baoying Chen et al., ICML 2024) [:octocat:](https://github.com/beibuwandeluori/DRCT)
 
@@ -78,9 +83,13 @@ If you want to contribute to this list, welcome to send me a pull request or con
 
 + [Towards Universal Fake Image Detectors that Generalize Across Generative Models](https://arxiv.org/abs/2302.10174) (Utkarsh Ojha et al., CVPR 2023) [:octocat:](https://github.com/WisconsinAIVision/UniversalFakeDetect) 
 
-## Over-fitting
+## Dataset bias
 
 + [Aligned Datasets Improve Detection of Latent Diffusion-Generated Images](https://openreview.net/pdf?id=doBkiqESYq) (Anirudh Sundara Rajan et al., ICLR 2025) [:globe_with_meridians:](https://anisundar18.github.io/AlignedForensics/) [:octocat:](https://github.com/AniSundar18/AlignedForensics) 
+
++ [SFLD: Reducing the content bias for AI-generated Image Detection](https://arxiv.org/abs/2502.17105) (Seoyeon Gye et al., arxiv 2025)
+
++ [Fake or JPEG? Revealing Common Biases in Generated Image Detection Datasets](https://arxiv.org/abs/2403.17608) (Patrick Grommelt et al., arxiv 2024)
 
 + [Orthogonal Subspace Decomposition for Generalizable AI-Generated Image Detection](https://arxiv.org/pdf/2411.15633) (Zhiyuan Yan et al., arxiv 2024)
 
@@ -90,6 +99,8 @@ If you want to contribute to this list, welcome to send me a pull request or con
 
 + [Zero-Shot Detection of AI-Generated Images](https://arxiv.org/abs/2409.15875) (Davide Cozzolino et al., ECCV 2024)[:globe_with_meridians:](https://grip-unina.github.io/ZED/)[:octocat:](https://github.com/grip-unina/ZED/)
 
++ [Your diffusion model is an implicit synthetic image detector](https://hal.science/hal-04713283v1) (Xi Wang et al, ECCV Workshop 2024) [:globe_with_meridians:](https://www.lix.polytechnique.fr/vista/projects/2024_detector_wang/g)
+
 + [AEROBLADE: Training-Free Detection of Latent Diffusion Images Using Autoencoder Reconstruction Error](https://openaccess.thecvf.com/content/CVPR2024/html/Ricker_AEROBLADE_Training-Free_Detection_of_Latent_Diffusion_Images_Using_Autoencoder_Reconstruction_CVPR_2024_paper.html) (Jonas Ricker et al., CVPR 2024) [:octocat:](https://github.com/jonasricker/aeroblade)
 
 + [RIGID: A Training-Free and Model-Agnostic Framework for Robust AI-Generated Image Detection](https://arxiv.org/abs/2405.20112) (Davide Cozzolino et al., arxiv 2024)
@@ -97,9 +108,11 @@ If you want to contribute to this list, welcome to send me a pull request or con
 
 ## Transformation
 
-
 + [Improving Synthetic Image Detection Towards Generalization: An Image Transformation Perspective](https://arxiv.org/abs/2408.06741) (Ouxiang Li, KDD 2025) [:octocat:](https://github.com/Ouxiang-Li/SAFEn)
 
+## knowledge distillation
+
++ [GenDet: Towards Good Generalizations for AI-Generated Image Detection](https://arxiv.org/abs/2312.08880) (Mingjian Zhu, arxiv 2023)
 
 ## Patch
 
