@@ -75,6 +75,8 @@ If you want to contribute to this list, welcome to send me a pull request or con
 
 + [Orthogonal Subspace Decomposition for Generalizable AI-Generated Image Detection](https://arxiv.org/abs/2411.15633) (Zhiyuan Yan et al., arxiv 2025) 
 
++ [Mixture of Low-rank Experts for Transferable AI-Generated Image Detection](https://arxiv.org/abs/2404.04883) (Zihan Liu et al., arxiv 2024) [:octocat:](https://github.com/zhliuworks/CLIPMoLE)
+
 + [Guided and Fused: Efficient Frozen CLIP-ViT with Feature Guidance and Multi-Stage Feature Fusion for Generalizable Deepfake Detection](https://arxiv.org/abs/2408.13697) (Yingjian Chen et al., arxiv 2024)
 
 + [Leveraging Representations from Intermediate Encoder-blocks for Synthetic Image Detection](https://arxiv.org/abs/2402.19091) (Christos Koutlis et al., ECCV 2024) [:octocat:](https://github.com/mever-team/rine) 
@@ -103,7 +105,7 @@ If you want to contribute to this list, welcome to send me a pull request or con
 
 + [HFI: A unified framework for training-free detection and implicit watermarking of latent diffusion model generated images](https://arxiv.org/abs/2412.20704) (Sungik Choi et al, arxiv 2024)
 
-+ [Zero-Shot Detection of AI-Generated Images](https://arxiv.org/abs/2409.15875) (Davide Cozzolino et al., ECCV 2024)[:globe_with_meridians:](https://grip-unina.github.io/ZED/)[:octocat:](https://github.com/grip-unina/ZED/)
++ [Zero-Shot Detection of AI-Generated Images](https://arxiv.org/abs/2409.15875) (Davide Cozzolino et al., ECCV 2024)[:globe_with_meridians:](https://grip-unina.github.io/ZED/) [:octocat:](https://github.com/grip-unina/ZED/)
 
 + [Your diffusion model is an implicit synthetic image detector](https://hal.science/hal-04713283v1) (Xi Wang et al, ECCV Workshop 2024) [:globe_with_meridians:](https://www.lix.polytechnique.fr/vista/projects/2024_detector_wang/g)
 
@@ -114,9 +116,11 @@ If you want to contribute to this list, welcome to send me a pull request or con
 
 ## Transformation
 
++ [Improving Synthetic Image Detection Towards Generalization: An Image Transformation Perspective](https://arxiv.org/abs/2408.06741) (Ouxiang Li, KDD 2025) [:octocat:](https://github.com/Ouxiang-Li/SAFEn)
+
 + [Learning on Less: Constraining Pre-trained Model Learning for Generalizable Diffusion-Generated Image Detection](https://arxiv.org/abs/2412.00665) (Yingjian Chen et al, arxiv 2024)
 
-+ [Improving Synthetic Image Detection Towards Generalization: An Image Transformation Perspective](https://arxiv.org/abs/2408.06741) (Ouxiang Li, KDD 2025) [:octocat:](https://github.com/Ouxiang-Li/SAFEn)
++ [Frequency Masking for Universal DeepFake Detection](https://arxiv.org/abs/2401.06506) (Chandler Timm Doloriel et al., ICASSP 2024) [:octocat:](https://github.com/chandlerbing65nm/FakeImageDetection)
 
 ## knowledge distillation
 
