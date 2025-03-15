@@ -5,12 +5,16 @@ A collection list of AI-generated image detection related datasets, tools, paper
 
 If you want to contribute to this list, welcome to send me a pull request or contact me :)
 
++ :globe_with_meridians: Project Page
++ :octocat: Code
 
 ## Latest Updates
 
++ [FIRE: Robust Detection of Diffusion-Generated Images via Frequency-Guided Reconstruction Error](https://arxiv.org/abs/2412.07140v2) (Beilin Chu et al., CVPR 2025) [:octocat:](https://github.com/Chuchad/FIRE)
 
 ## Contents
 
+- [Datasets](#datasets)
 
 ## Datasets
 
