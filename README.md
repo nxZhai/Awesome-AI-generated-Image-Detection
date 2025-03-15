@@ -21,6 +21,7 @@ If you want to contribute to this list, welcome to send me a pull request or con
 + [Vision fondation model related](#vision-fondation-model-related)
 + [Over-fitting](#over-fitting)
 + [Training-free](#training-free)
++ [transformation](#transformation)
 + [Patch](#patch)
 + [LLM](#llm)
 + [Noise fingerprint](#noise-fingerprint)
@@ -77,7 +78,7 @@ If you want to contribute to this list, welcome to send me a pull request or con
 
 + [Towards Universal Fake Image Detectors that Generalize Across Generative Models](https://arxiv.org/abs/2302.10174) (Utkarsh Ojha et al., CVPR 2023) [:octocat:](https://github.com/WisconsinAIVision/UniversalFakeDetect) 
 
-## over-fitting
+## Over-fitting
 
 + [Aligned Datasets Improve Detection of Latent Diffusion-Generated Images](https://openreview.net/pdf?id=doBkiqESYq) (Anirudh Sundara Rajan et al., ICLR 2025) [:globe_with_meridians:](https://anisundar18.github.io/AlignedForensics/) [:octocat:](https://github.com/AniSundar18/AlignedForensics) 
 
@@ -92,6 +93,12 @@ If you want to contribute to this list, welcome to send me a pull request or con
 + [AEROBLADE: Training-Free Detection of Latent Diffusion Images Using Autoencoder Reconstruction Error](https://openaccess.thecvf.com/content/CVPR2024/html/Ricker_AEROBLADE_Training-Free_Detection_of_Latent_Diffusion_Images_Using_Autoencoder_Reconstruction_CVPR_2024_paper.html) (Jonas Ricker et al., CVPR 2024) [:octocat:](https://github.com/jonasricker/aeroblade)
 
 + [RIGID: A Training-Free and Model-Agnostic Framework for Robust AI-Generated Image Detection](https://arxiv.org/abs/2405.20112) (Davide Cozzolino et al., arxiv 2024)
+
+
+## Transformation
+
+
++ [Improving Synthetic Image Detection Towards Generalization: An Image Transformation Perspective](https://arxiv.org/abs/2408.06741) (Ouxiang Li, KDD 2025) [:octocat:](https://github.com/Ouxiang-Li/SAFEn)
 
 
 ## Patch
