@@ -71,7 +71,11 @@ If you want to contribute to this list, welcome to send me a pull request or con
 
 + [A Sanity Check for AI-generated Image Detection](https://arxiv.org/abs/2406.19435) (Shilin Yan et al., ICLR 2025) [:octocat:](https://github.com/shilinyan99/AIDE) 
 
++ [C2P-CLIP: Injecting Category Common Prompt in CLIP to Enhance Generalization in Deepfake Detection](https://arxiv.org/abs/2502.17105) (Chuangchuang Tan et al. AAAI 2025) [:octocat:](https://github.com/chuangchuangtan/C2P-CLIP-DeepfakeDetection) 
+
 + [Orthogonal Subspace Decomposition for Generalizable AI-Generated Image Detection](https://arxiv.org/abs/2411.15633) (Zhiyuan Yan et al., arxiv 2025) 
+
++ [Guided and Fused: Efficient Frozen CLIP-ViT with Feature Guidance and Multi-Stage Feature Fusion for Generalizable Deepfake Detection](https://arxiv.org/abs/2408.13697) (Yingjian Chen et al., arxiv 2024)
 
 + [Leveraging Representations from Intermediate Encoder-blocks for Synthetic Image Detection](https://arxiv.org/abs/2402.19091) (Christos Koutlis et al., ECCV 2024) [:octocat:](https://github.com/mever-team/rine) 
 
@@ -97,6 +101,8 @@ If you want to contribute to this list, welcome to send me a pull request or con
 
 + [Manifold Induced Biases for Zero-shot and Few-shot Detection of Generated Images](https://openreview.net/pdf?id=7gGl6HB5Zd) (Jonathan Brokman et al., ICLR 2025)
 
++ [HFI: A unified framework for training-free detection and implicit watermarking of latent diffusion model generated images](https://arxiv.org/abs/2412.20704) (Sungik Choi et al, arxiv 2024)
+
 + [Zero-Shot Detection of AI-Generated Images](https://arxiv.org/abs/2409.15875) (Davide Cozzolino et al., ECCV 2024)[:globe_with_meridians:](https://grip-unina.github.io/ZED/)[:octocat:](https://github.com/grip-unina/ZED/)
 
 + [Your diffusion model is an implicit synthetic image detector](https://hal.science/hal-04713283v1) (Xi Wang et al, ECCV Workshop 2024) [:globe_with_meridians:](https://www.lix.polytechnique.fr/vista/projects/2024_detector_wang/g)
@@ -107,6 +113,8 @@ If you want to contribute to this list, welcome to send me a pull request or con
 
 
 ## Transformation
+
++ [Learning on Less: Constraining Pre-trained Model Learning for Generalizable Diffusion-Generated Image Detection](https://arxiv.org/abs/2412.00665) (Yingjian Chen et al, arxiv 2024)
 
 + [Improving Synthetic Image Detection Towards Generalization: An Image Transformation Perspective](https://arxiv.org/abs/2408.06741) (Ouxiang Li, KDD 2025) [:octocat:](https://github.com/Ouxiang-Li/SAFEn)
 
@@ -126,6 +134,7 @@ If you want to contribute to this list, welcome to send me a pull request or con
 
 ## LLM
 
++ [Explainable Synthetic Image Detection through Diffusion Timestep Ensembling](https://arxiv.org/pdf/2503.06201) (Yixin Wu et al., arxiv 2025)
 
 ## Noise fingerprint
 
@@ -148,6 +157,8 @@ If you want to contribute to this list, welcome to send me a pull request or con
 + [CNNDetect: CNN-generated images are surprisingly easy to spot...for now](https://arxiv.org/abs/1912.11035) (Sheng-Yu Wang et al., CVPR 2020) [:globe_with_meridians:](https://peterwang512.github.io/CNNDetection/) [:octocat:](https://github.com/peterwang512/CNNDetection) 
 
 ## Frequency domain
+
++ [Towards More Accurate Fake Detection on Images Generated from Advanced Generative and Neural Rendering Models](https://arxiv.org/abs/2411.08642) (Chengdong Dong et al., arxiv 2024)
 
 + [Any-Resolution AI-Generated Image Detection by Spectral Learning](https://arxiv.org/abs/2411.19417v1) (Dimitrios Karageorgiou et al., arxiv 2024)
 
