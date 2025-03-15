@@ -1,4 +1,5 @@
 # Awesome AI-generated Image Detection
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 A collection list of AI-generated image detection related datasets, tools, papers, and code.
 
@@ -7,7 +8,13 @@ If you want to contribute to this list, welcome to send me a pull request or con
 
 ## Latest Updates
 
+
 ## Contents
+
+
+## Datasets
+
+
 
 ## Citing Awesome AI-generated Image Detection
 
