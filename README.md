@@ -17,12 +17,14 @@ If you want to contribute to this list, welcome to send me a pull request or con
 ## Contents
 
 + [Datasets](#datasets)
-+ [Data-driven](#data-driven)
-+ [CLIP-based](#clip-based)
-+ [Noise fingerprint](#noise-fingerprint)
 + [Reconstruction Error](#reconstruction-error)
++ [Vision fondation model related](#vision-fondation-model-related)
+
 + [Patch](#patch)
 + [LLM](#llm)
++ [Noise fingerprint](#noise-fingerprint)
++ [Data-driven](#data-driven)
++ [Frequency domain](#frequency-domain)
 + [Tools](#tools)
 
 
@@ -59,7 +61,19 @@ for Diffusion-Generated Image Detection](https://openaccess.thecvf.com/content/C
 
 + [DIRE for Diffusion-Generated Image Detection](https://arxiv.org/abs/2303.09295) (Zhendong Wang et al., ICCV 2023) [:globe_with_meridians:](https://peterwang512.github.io/CNNDetection/) [:octocat:](https://github.com/ZhendongWang6/DIRE)
 
-## CLIP-based
+## Vision fondation model related
+
++ [A Sanity Check for AI-generated Image Detection](https://arxiv.org/abs/2406.19435) (Shilin Yan et al., ICLR 2025) [:octocat:](https://github.com/shilinyan99/AIDE) 
+
++ [Orthogonal Subspace Decomposition for Generalizable AI-Generated Image Detection](https://arxiv.org/abs/2411.15633) (Zhiyuan Yan et al., arxiv 2025) 
+
++ [Clipping the deception: Adapting vision-language models for universal deepfake detection](https://arxiv.org/abs/2302.10174) (Sohail Ahmed Khan et al., ICMR 2024) [:octocat:](https://github.com/sohailahmedkhan/CLIPping-the-Deception) 
+
++ [Towards Universal Fake Image Detectors that Generalize Across Generative Models](https://arxiv.org/abs/2302.10174) (Utkarsh Ojha et al., CVPR 2023) [:octocat:](https://github.com/WisconsinAIVision/UniversalFakeDetect) 
+
+## Zero-shot
+
++ [Zero-Shot Detection of AI-Generated Images](https://arxiv.org/abs/2409.15875) (Davide Cozzolino, ECCV 2024)[:globe_with_meridians:](https://grip-unina.github.io/ZED/)[:octocat:](https://github.com/grip-unina/ZED/)
 
 
 ## Patch
@@ -68,7 +82,19 @@ for Diffusion-Generated Image Detection](https://openaccess.thecvf.com/content/C
 
 + [PatchCraft: Exploring Texture Patch for Efficient AI-generated Image Detection](https://arxiv.org/abs/2311.12397v3) (Nan Zhong et al., arxiv 2023) [:globe_with_meridians:](https://fdmas.github.io/AIGCDetect/) [:octocat:](https://github.com/Ekko-zn/AIGCDetectBenchmark)
 
++ [Fusing global and local features for generalized ai-synthesized image detection](https://ieeexplore.ieee.org/abstract/document/9897820) (Yan Ju et al., ICIP 2022) [:octocat:](https://github.com/littlejuyan/FusingGlobalandLocal)
+
+
 ## LLM
+
+
+## Noise fingerprint
+
++ [Rethinking the Up-Sampling Operations in CNN-based Generative Network for Generalizable Deepfake Detection](https://openaccess.thecvf.com/content/CVPR2024/html/Tan_Rethinking_the_Up-Sampling_Operations_in_CNN-based_Generative_Network_for_Generalizable_CVPR_2024_paper.html) (Chuangchuang Tan et al., CVPR 2024) [:octocat:](https://github.com/chuangchuangtan/NPR-DeepfakeDetection)
+
++ [Learning on gradients: Generalized artifacts representation for gan-generated images detection](https://openaccess.thecvf.com/content/CVPR2024/html/Tan_Rethinking_the_Uhttps://openaccess.thecvf.com/content/CVPR2023/html/Tan_Learning_on_Gradients_Generalized_Artifacts_Representation_for_GAN-Generated_Images_Detection_CVPR_2023_paper.html) (Chuangchuang Tan et al., CVPR 2023) [:octocat:](https://github.com/chuangchuangtan/LGrad)
+
++ [Detecting generated images by real images](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136740089.pdf) (Bo Liu et al., ECCV 2022) [:octocat:](https://github.com/Tangsenghenshou/Detecting-Generated-Images-by-Real-Images)
 
 ## Data-driven
 
@@ -76,17 +102,23 @@ for Diffusion-Generated Image Detection](https://openaccess.thecvf.com/content/C
 + []() (, ) [:globe_with_meridians:]() [:octocat:]()
 -->
 
-## Noise fingerprint
++ [Global Texture Enhancement for Fake Face Detection in the Wild](https://arxiv.org/abs/2002.00133) (Zhengzhe Liu et al., CVPR 2020) [:octocat:](https://github.com/liuzhengzhe/Global_Texture_Enhancement_for_Fake_Face_Detection_in_the-Wild) 
 
++ [CNNDetect: CNN-generated images are surprisingly easy to spot...for now](https://arxiv.org/abs/1912.11035) (Sheng-Yu Wang et al., CVPR 2020) [:globe_with_meridians:](https://peterwang512.github.io/CNNDetection/) [:octocat:](https://github.com/peterwang512/CNNDetection) 
 
+## Frequency domain
+
++ [Frequency-aware deepfake detection: Improving generalizability through frequency space domain learning](https://ojs.aaai.org/index.php/AAAI/article/view/28310) (Chuangchuang Tan et al., AAAI 2024) [:octocat:](https://github.com/chuangchuangtan/FreqNet-DeepfakeDetection) 
+
++ [Leveraging frequency analysis for deep fake image recognition](https://proceedings.mlr.press/v119/frank20a) (Zhengzhe Liu et al., ICML 2020) [:octocat:](https://github.com/RUB-SysSec/GANDCTAnalysis) 
+
++ [Detecting and simulating artifacts in gan fake images](https://ieeexplore.ieee.org/xpl/conhome/9034067/proceeding) (Zhengzhe Liu et al., WIFS 2019) [:octocat:](https://github.com/ColumbiaDVMM/AutoGAN) 
 
 ## Tools
 
 + [SIDBench: A Python framework for reliably assessing synthetic image detection methods](https://dl.acm.org/doi/abs/10.1145/3643491.3660277) (Manos Schinas et al., MAD Workshop 2024) [:octocat:](https://github.com/mever-team/sidbench)
 
 + [PatchCraft: Exploring Texture Patch for Efficient AI-generated Image Detection](https://arxiv.org/abs/2311.12397v3) (Nan Zhong et al., arxiv 2023) [:globe_with_meridians:](https://fdmas.github.io/AIGCDetect/) [:octocat:](https://github.com/Ekko-zn/AIGCDetectBenchmark)
-
-## Frequency Analysis
 
 
 
