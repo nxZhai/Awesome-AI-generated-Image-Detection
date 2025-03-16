@@ -16,6 +16,7 @@ If you want to contribute to this list, welcome to send me a pull request or con
 
 ## Contents
 
++ [Benchmark](#benchmark)
 + [Datasets](#datasets)
 + [Reconstruction Error](#reconstruction-error)
 + [Vision fondation model related](#vision-fondation-model-related)
@@ -24,12 +25,16 @@ If you want to contribute to this list, welcome to send me a pull request or con
 + [transformation](#transformation)
 
 + [Patch](#patch)
-+ [LLM](#llm)
++ [Multimodal Large Language Model](#multimodal-large-language-model)
 + [Noise fingerprint](#noise-fingerprint)
 + [Data-driven](#data-driven)
 + [Frequency domain](#frequency-domain)
 + [Tools](#tools)
 
+
+## Benchmark
+
++ [Seeing is not always believing: Benchmarking Human and Model Perception of AI-Generated Images](https://arxiv.org/abs/2304.13023) (Zuyu Lu et al., NeurIPS 2023) [:octocat:](https://github.com/Inf-imagine/Sentry)
 
 ## Datasets
 
@@ -140,9 +145,11 @@ If you want to contribute to this list, welcome to send me a pull request or con
 
 + [What makes fake images detectable? Understanding properties that generalize](https://arxiv.org/abs/2008.10588) (Lucy Chai et al., ECCV 2020) [:globe_with_meridians:](https://chail.github.io/patch-forensics/) [:octocat:](https://github.com/chail/patch-forensics)
 
-## LLM
+## Multimodal Large Language Model
 
 + [Explainable Synthetic Image Detection through Diffusion Timestep Ensembling](https://arxiv.org/pdf/2503.06201) (Yixin Wu et al., arxiv 2025)
+
++ [FakeBench: Probing Explainable Fake Image Detection via Large Multimodal Models](https://arxiv.org/abs/2404.13306) (Yixuan Li at al., arxiv 2024)
 
 ## Noise fingerprint
 
