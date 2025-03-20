@@ -18,7 +18,7 @@ If you want to contribute to this list, welcome to send me a pull request or con
 
 ## Contents
 
-+ [Benchmark](#benchmark)
++ [Benchmark/Survey](#benchmarksurvey)
 + [Datasets](#datasets)
 + [Reconstruction Error](#reconstruction-error)
 + [Vision fondation model related](#vision-fondation-model-related)
@@ -35,9 +35,12 @@ If you want to contribute to this list, welcome to send me a pull request or con
 + [Tools](#tools)
 
 
-## Benchmark
+## Benchmark/Survey
 
 + [Seeing is not always believing: Benchmarking Human and Model Perception of AI-Generated Images](https://arxiv.org/abs/2304.13023) (Zuyu Lu et al., NeurIPS 2023) [:octocat:](https://github.com/Inf-imagine/Sentry)
+
++ [Recent Advances on Generalizable Diffusion-generated Image Detection](https://arxiv.org/abs/2502.19716) (Qijie Xu et al., arxiv 2025) [:octocat:](https://github.com/zju-pi/Awesome-Diffusion-generated-Image-Detection)
+
 
 ## Datasets
 
