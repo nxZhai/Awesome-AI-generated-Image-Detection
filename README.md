@@ -110,7 +110,7 @@ If you want to contribute to this list, welcome to send me a pull request or con
 
 + [SFLD: Reducing the content bias for AI-generated Image Detection](https://arxiv.org/abs/2502.17105) (Seoyeon Gye et al., arxiv 2025)
 
-+ [Fake or JPEG? Revealing Common Biases in Generated Image Detection Datasets](https://arxiv.org/abs/2403.17608) (Patrick Grommelt et al., arxiv 2024)
++ [Fake or JPEG? Revealing Common Biases in Generated Image Detection Datasets](https://arxiv.org/abs/2403.17608) (Patrick Grommelt et al., arxiv 2024) [:globe_with_meridians:](https://www.unbiased-genimage.org/) [:octocat:](https://github.com/gendetection/UnbiasedGenImage) 
 
 + [Orthogonal Subspace Decomposition for Generalizable AI-Generated Image Detection](https://arxiv.org/pdf/2411.15633) (Zhiyuan Yan et al., arxiv 2024)
 
