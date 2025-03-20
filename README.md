@@ -14,6 +14,8 @@ If you want to contribute to this list, welcome to send me a pull request or con
 
 + [FIRE: Robust Detection of Diffusion-Generated Images via Frequency-Guided Reconstruction Error](https://arxiv.org/abs/2412.07140v2) (Beilin Chu et al., CVPR 2025) [:octocat:](https://github.com/Chuchad/FIRE)
 
+
+
 ## Contents
 
 + [Benchmark](#benchmark)
@@ -29,6 +31,7 @@ If you want to contribute to this list, welcome to send me a pull request or con
 + [Noise fingerprint](#noise-fingerprint)
 + [Data-driven](#data-driven)
 + [Frequency domain](#frequency-domain)
++ [Shadows](#shadows)
 + [Tools](#tools)
 
 
@@ -182,6 +185,10 @@ If you want to contribute to this list, welcome to send me a pull request or con
 + [Leveraging frequency analysis for deep fake image recognition](https://proceedings.mlr.press/v119/frank20a) (Zhengzhe Liu et al., ICML 2020) [:octocat:](https://github.com/RUB-SysSec/GANDCTAnalysis) 
 
 + [Detecting and simulating artifacts in gan fake images](https://ieeexplore.ieee.org/xpl/conhome/9034067/proceeding) (Zhengzhe Liu et al., WIFS 2019) [:octocat:](https://github.com/ColumbiaDVMM/AutoGAN) 
+
+# Shadows
+
++ [Shadows Don't Lie and Lines Can't Bend! Generative Models don't know Projective Geometry...for now](https://arxiv.org/abs/2311.17138) (Ayush Sarkar et al., CVPR24) [:globe_with_meridians:](https://projective-geometry.github.io/) [:octocat:](https://github.com/hanlinm2/projective-geometry/)
 
 ## Tools
 
