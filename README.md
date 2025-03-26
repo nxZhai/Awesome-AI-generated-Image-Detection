@@ -9,10 +9,35 @@ If you want to contribute to this list, welcome to send me a pull request or con
 + :octocat: Code
 + :bricks: Datasets Download Link
 
+## TODOs
+
+- [ ] Add CVPR 2025 paper links & code links 
+- [x] Add CVPR 2025 paper titles
+
 
 ## Latest Updates
 
+
++ [OpenSDI: Spotting Diffusion-Generated Images in the Open World](https://arxiv.org/abs/2503.19653) (Yabin Wang et al., CVPR 2025) [:octocat:](https://github.com/iamwangyabin/OpenSDI)
+
++ [Forensic Self-Descriptions Are All You Need for Zero-Shot Detection, Open-Set Source Attribution, and Clustering of AI-generated Images]() (Tai Nguyen et al., CVPR 2025)
+
++ [Beyond Generation: A Diffusion-based Low-level Feature Extractor for Detecting AI-generated Images]() (Nan Zhong et al., CVPR 2025)
+
++ [Towards Universal AI-Generated Image Detection by Variational Information Bottleneck Network]() (Haifeng Zhang et al., CVPR 2025)
+
++ [A Bias-Free Training Paradigm for More General AI-generated Image Detection](https://arxiv.org/abs/2412.17671) (Fabrizio Guilaro et al., CVPR 2025)
+
++ [PatchGuard: Adversarially Robust Anomaly Detection and Localization through Vision Transformers and Pseudo Anomalies]() (Mojtaba Nafez et al., CVPR 2025)
+
++ [Secret Lies in Color: Enhancing AI-Generated Images Detection with Color Distribution Analysis]() (Zexi Jia et al., CVPR 2025)
+
++ [Any-Resolution AI-Generated Image Detection by Spectral Learning](https://arxiv.org/abs/2411.19417) (Dimitrios Karageorgiou et al., CVPR 2025)
+
++ [CO-SPY: Combining Semantic and Pixel Features to Detect Synthetic Images by AI](https://arxiv.org/abs/2503.18286) (Siyuan Cheng et al., CVPR2025) [:octocat:](https://github.com/Megum1/Co-Spy) 
+
 + [FIRE: Robust Detection of Diffusion-Generated Images via Frequency-Guided Reconstruction Error](https://arxiv.org/abs/2412.07140v2) (Beilin Chu et al., CVPR 2025) [:octocat:](https://github.com/Chuchad/FIRE)
+
 
 
 
@@ -47,6 +72,8 @@ If you want to contribute to this list, welcome to send me a pull request or con
 <!-- 
 + []() (, ) [:globe_with_meridians:]() [:octocat:]() [:bricks:]()
 -->
+
++ [**CO-SPY**: Combining Semantic and Pixel Features to Detect Synthetic Images by AI](https://arxiv.org/abs/2503.18286) (Siyuan Cheng et al., CVPR2025) [:octocat:](https://github.com/Megum1/Co-Spy) [:bricks:](https://huggingface.co/datasets/ruojiruoli/Co-Spy-Bench)
 
 + [A Sanity Check for AI-generated Image Detection](https://arxiv.org/abs/2406.19435) (Shilin Yan et al., ICLR 2025) [:octocat:](https://github.com/shilinyan99/AIDE) [:bricks:](https://github.com/shilinyan99/AIDE#-chameleon)
 
@@ -83,6 +110,8 @@ If you want to contribute to this list, welcome to send me a pull request or con
 + [DIRE for Diffusion-Generated Image Detection](https://arxiv.org/abs/2303.09295) (Zhendong Wang et al., ICCV 2023) [:globe_with_meridians:](https://peterwang512.github.io/CNNDetection/) [:octocat:](https://github.com/ZhendongWang6/DIRE)
 
 ## Vision fondation model related
+
++ [CO-SPY: Combining Semantic and Pixel Features to Detect Synthetic Images by AI](https://arxiv.org/abs/2503.18286) (Siyuan Cheng et al., CVPR2025) [:octocat:](https://github.com/Megum1/Co-Spy) 
 
 + [A Sanity Check for AI-generated Image Detection](https://arxiv.org/abs/2406.19435) (Shilin Yan et al., ICLR 2025) [:octocat:](https://github.com/shilinyan99/AIDE) 
 
@@ -178,6 +207,8 @@ If you want to contribute to this list, welcome to send me a pull request or con
 + [CNNDetect: CNN-generated images are surprisingly easy to spot...for now](https://arxiv.org/abs/1912.11035) (Sheng-Yu Wang et al., CVPR 2020) [:globe_with_meridians:](https://peterwang512.github.io/CNNDetection/) [:octocat:](https://github.com/peterwang512/CNNDetection) 
 
 ## Frequency domain
+
++ [Any-Resolution AI-Generated Image Detection by Spectral Learning](https://arxiv.org/abs/2411.19417) (Dimitrios Karageorgiou et al., CVPR 2025)
 
 + [Towards More Accurate Fake Detection on Images Generated from Advanced Generative and Neural Rendering Models](https://arxiv.org/abs/2411.08642) (Chengdong Dong et al., arxiv 2024)
 
