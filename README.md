@@ -15,7 +15,7 @@ If you want to contribute to this list, welcome to send me a pull request or con
 - [x] Add CVPR 2025 paper titles
 
 
-## Latest Updates
+## Latest Updates 🔥
 
 
 + [OpenSDI: Spotting Diffusion-Generated Images in the Open World](https://arxiv.org/abs/2503.19653) (Yabin Wang et al., CVPR 2025) [:octocat:](https://github.com/iamwangyabin/OpenSDI)
