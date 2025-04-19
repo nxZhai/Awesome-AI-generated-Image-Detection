@@ -73,6 +73,8 @@ If you want to contribute to this list, welcome to send me a pull request or con
 + []() (, ) [:globe_with_meridians:]() [:octocat:]() [:bricks:]()
 -->
 
++ [Spot the Fake: Large Multimodal Model-Based Synthetic Image Detection with Artifact Explanation](https://arxiv.org/abs/2503.14905v1) (Siwei Wen et al., arxiv 2025) [:octocat:](https://github.com/opendatalab/FakeVLM) [:bricks:](https://huggingface.co/datasets/lingcco/FakeClue)
+
 + [**CO-SPY**: Combining Semantic and Pixel Features to Detect Synthetic Images by AI](https://arxiv.org/abs/2503.18286) (Siyuan Cheng et al., CVPR2025) [:octocat:](https://github.com/Megum1/Co-Spy) [:bricks:](https://huggingface.co/datasets/ruojiruoli/Co-Spy-Bench)
 
 + [A Sanity Check for AI-generated Image Detection](https://arxiv.org/abs/2406.19435) (Shilin Yan et al., ICLR 2025) [:octocat:](https://github.com/shilinyan99/AIDE) [:bricks:](https://github.com/shilinyan99/AIDE#-chameleon)
@@ -172,6 +174,8 @@ If you want to contribute to this list, welcome to send me a pull request or con
 
 ## Patch
 
++ [All Patches Matter, More Patches Better: Enhance AI-Generated Image Detection via Panoptic Patch Learning](https://arxiv.org/abs/2504.01396) (Zheng Yang et al., arxiv 2025)
+
 + [Breaking Semantic Artifacts for Generalized AI-generated Image Detection](https://proceedings.neurips.cc/paper_files/paper/2024/file/6dddcff5b115b40c998a08fbd1cea4d7-Paper-Conference.pdf) (Chende Zhang et al., NeurIPS 2024) [:octocat:](https://github.com/Zig-HS/FakeImageDetection?tab=readme-ov-file)
 
 + [A Single Simple Patch is All You Need for AI-generated Image Detection](https://arxiv.org/abs/2402.01123) (Jiaxuan Chen, arxiv 2024)[:octocat:](https://github.com/bcmi/SSP-AI-Generated-Image-Detection)
@@ -183,6 +187,8 @@ If you want to contribute to this list, welcome to send me a pull request or con
 + [What makes fake images detectable? Understanding properties that generalize](https://arxiv.org/abs/2008.10588) (Lucy Chai et al., ECCV 2020) [:globe_with_meridians:](https://chail.github.io/patch-forensics/) [:octocat:](https://github.com/chail/patch-forensics)
 
 ## Multimodal Large Language Model
+
++ [Spot the Fake: Large Multimodal Model-Based Synthetic Image Detection with Artifact Explanation](https://arxiv.org/abs/2503.14905v1) (Siwei Wen et al., arxiv 2025) [:octocat:](https://github.com/opendatalab/FakeVLM)
 
 + [Explainable Synthetic Image Detection through Diffusion Timestep Ensembling](https://arxiv.org/pdf/2503.06201) (Yixin Wu et al., arxiv 2025)
 
