@@ -172,6 +172,8 @@ If you want to contribute to this list, welcome to send me a pull request or con
 
 ## Patch
 
++ [Breaking Semantic Artifacts for Generalized AI-generated Image Detection](https://proceedings.neurips.cc/paper_files/paper/2024/file/6dddcff5b115b40c998a08fbd1cea4d7-Paper-Conference.pdf) (Chende Zhang et al., NeurIPS 2024) [:octocat:](https://github.com/Zig-HS/FakeImageDetection?tab=readme-ov-file)
+
 + [A Single Simple Patch is All You Need for AI-generated Image Detection](https://arxiv.org/abs/2402.01123) (Jiaxuan Chen, arxiv 2024)[:octocat:](https://github.com/bcmi/SSP-AI-Generated-Image-Detection)
 
 + [PatchCraft: Exploring Texture Patch for Efficient AI-generated Image Detection](https://arxiv.org/abs/2311.12397v3) (Nan Zhong et al., arxiv 2023) [:globe_with_meridians:](https://fdmas.github.io/AIGCDetect/) [:octocat:](https://github.com/Ekko-zn/AIGCDetectBenchmark)
