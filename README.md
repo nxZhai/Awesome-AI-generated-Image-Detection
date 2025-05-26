@@ -221,6 +221,8 @@ If you want to contribute to this list, welcome to send me a pull request or con
 
 ## Frequency domain
 
++ [Dual Data Alignment Makes AI-Generated Image Detector Easier Generalizable](https://arxiv.org/abs/2505.14359) (Ruoxin Chen et al., arxiv 2025)
+
 + [Any-Resolution AI-Generated Image Detection by Spectral Learning](https://arxiv.org/abs/2411.19417) (Dimitrios Karageorgiou et al., CVPR 2025) 
 [:octocat:](https://github.com/mever-team/spai)
 
