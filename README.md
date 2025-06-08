@@ -12,7 +12,7 @@ If you want to contribute to this list, welcome to send me a pull request or con
 ## TODOs
 
 - [ ] Add ICML 2025 papers
-- [ ] Add CVPR 2025 paper links & code links 
+- [x] Add CVPR 2025 paper links & code links 
 - [x] Add CVPR 2025 paper titles
 
 
@@ -24,15 +24,13 @@ If you want to contribute to this list, welcome to send me a pull request or con
 
 + [Forensic Self-Descriptions Are All You Need for Zero-Shot Detection, Open-Set Source Attribution, and Clustering of AI-generated Images](https://arxiv.org/abs/2503.21003) (Tai Nguyen et al., CVPR 2025)
 
-+ [Beyond Generation: A Diffusion-based Low-level Feature Extractor for Detecting AI-generated Images]() (Nan Zhong et al., CVPR 2025)
++ [Beyond Generation: A Diffusion-based Low-level Feature Extractor for Detecting AI-generated Images](https://openaccess.thecvf.com/content/CVPR2025/html/Zhong_Beyond_Generation_A_Diffusion-based_Low-level_Feature_Extractor_for_Detecting_AI-generated_CVPR_2025_paper.html) (Nan Zhong et al., CVPR 2025)
 
-+ [Towards Universal AI-Generated Image Detection by Variational Information Bottleneck Network]() (Haifeng Zhang et al., CVPR 2025)
-
++ [Towards Universal AI-Generated Image Detection by Variational Information Bottleneck Network](https://openaccess.thecvf.com/content/CVPR2025/html/Zhang_Towards_Universal_AI-Generated_Image_Detection_by_Variational_Information_Bottleneck_Network_CVPR_2025_paper.html) (Haifeng Zhang et al., CVPR 2025) [:octocat:](https://github.com/oceanzhf/VIBAIGCDetect)
+ 
 + [A Bias-Free Training Paradigm for More General AI-generated Image Detection](https://arxiv.org/abs/2412.17671) (Fabrizio Guilaro et al., CVPR 2025)
 
-+ [PatchGuard: Adversarially Robust Anomaly Detection and Localization through Vision Transformers and Pseudo Anomalies]() (Mojtaba Nafez et al., CVPR 2025)
-
-+ [Secret Lies in Color: Enhancing AI-Generated Images Detection with Color Distribution Analysis]() (Zexi Jia et al., CVPR 2025)
++ [Secret Lies in Color: Enhancing AI-Generated Images Detection with Color Distribution Analysis](https://openaccess.thecvf.com/content/CVPR2025/html/Jia_Secret_Lies_in_Color_Enhancing_AI-Generated_Images_Detection_with_Color_CVPR_2025_paper.html) (Zexi Jia et al., CVPR 2025)
 
 + [Any-Resolution AI-Generated Image Detection by Spectral Learning](https://arxiv.org/abs/2411.19417) (Dimitrios Karageorgiou et al., CVPR 2025) [:octocat:](https://github.com/mever-team/spai)
 
