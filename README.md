@@ -18,7 +18,7 @@ If you want to contribute to this list, welcome to send me a pull request or con
 
 ## Latest Updates 🔥
 
-+ [Community Forensics: Using Thousands of Generators to Train Fake Image Detectors](https://arxiv.org/abs/2411.04125v2) (Jeongsoo Park et al., CVPR 2025) [:global_with_meridians:](https://jespark.net/projects/2024/community_forensics/) [:octocat:](https://github.com/JeongsooP/Community-Forensics)
++ [Community Forensics: Using Thousands of Generators to Train Fake Image Detectors](https://arxiv.org/abs/2411.04125v2) (Jeongsoo Park et al., CVPR 2025) [:globe_with_meridians:](https://jespark.net/projects/2024/community_forensics/) [:octocat:](https://github.com/JeongsooP/Community-Forensics)
 
 + [Orthogonal Subspace Decomposition for Generalizable AI-Generated Image Detection](https://arxiv.org/abs/2411.15633) (Zhiyuan Yan et al., ICML 2025) [:octocat:](https://github.com/YZY-stack/Effort-AIGI-Detection)
 
