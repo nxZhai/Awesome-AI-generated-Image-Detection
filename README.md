@@ -11,13 +11,13 @@ If you want to contribute to this list, welcome to send me a pull request or con
 
 ## TODOs
 
-- [ ] Add ICML 2025 papers
+- [ ] Add ICML 2025 paper links & code links 
+- [x] Add ICML 2025 papers
 - [x] Add CVPR 2025 paper links & code links 
 - [x] Add CVPR 2025 paper titles
 
 
 ## Latest Updates 🔥
-
 
 + [Orthogonal Subspace Decomposition for Generalizable AI-Generated Image Detection](https://arxiv.org/abs/2411.15633) (Zhiyuan Yan et al., ICML 2025) [:octocat:](https://github.com/YZY-stack/Effort-AIGI-Detection)
 
