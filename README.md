@@ -25,7 +25,7 @@ If you want to contribute to this list, welcome to send me a pull request or con
 
 + [Are High-Quality AI-Generated Images More Difficult for Models to Detect?] (Yao Xiao et al., ICML 2025)
 
-+ [Few-Shot Learner Generalizes Across AI-Generated Image Detection] (Shiyu Wu et al., ICML 2025)
++ [Few-Shot Learner Generalizes Across AI-Generated Image Detection](https://arxiv.org/abs/2501.08763) (Shiyu Wu et al., ICML 2025) [:octocat:](https://github.com/teheperinko541/Few-Shot-AIGI-Detector)
 
 + [PiD: Generalized AI-Generated Images Detection with Pixelwise Decomposition Residuals] (Xinghe Fu et al., ICML 2025)
 
