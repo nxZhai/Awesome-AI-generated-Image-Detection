@@ -18,28 +18,16 @@ If you want to contribute to this list, welcome to send me a pull request or con
 
 ## Latest Updates 🔥
 
-+ [Community Forensics: Using Thousands of Generators to Train Fake Image Detectors](https://arxiv.org/abs/2411.04125v2) (Jeongsoo Park et al., CVPR 2025) [:globe_with_meridians:](https://jespark.net/projects/2024/community_forensics/) [:octocat:](https://github.com/JeongsooP/Community-Forensics)
 
 + [Orthogonal Subspace Decomposition for Generalizable AI-Generated Image Detection](https://arxiv.org/abs/2411.15633) (Zhiyuan Yan et al., ICML 2025) [:octocat:](https://github.com/YZY-stack/Effort-AIGI-Detection)
 
-+ [OpenSDI: Spotting Diffusion-Generated Images in the Open World](https://arxiv.org/abs/2503.19653) (Yabin Wang et al., CVPR 2025) [:octocat:](https://github.com/iamwangyabin/OpenSDI)
++ [Stay-Positive: A Case for Ignoring Real Image Features in Fake Image Detection](https://arxiv.org/abs/2502.07778) (Anirudh Sundara Rajan et al., ICML 2025) [:octocat:](https://github.com/AniSundar18/AlignedForensics) [:globe_with_meridians:](https://anisundar18.github.io/Stay-Positive/)
 
-+ [Forensic Self-Descriptions Are All You Need for Zero-Shot Detection, Open-Set Source Attribution, and Clustering of AI-generated Images](https://arxiv.org/abs/2503.21003) (Tai Nguyen et al., CVPR 2025)
++ [Are High-Quality AI-Generated Images More Difficult for Models to Detect?] (Yao Xiao et al., ICML 2025)
 
-+ [Beyond Generation: A Diffusion-based Low-level Feature Extractor for Detecting AI-generated Images](https://openaccess.thecvf.com/content/CVPR2025/html/Zhong_Beyond_Generation_A_Diffusion-based_Low-level_Feature_Extractor_for_Detecting_AI-generated_CVPR_2025_paper.html) (Nan Zhong et al., CVPR 2025)
++ [Few-Shot Learner Generalizes Across AI-Generated Image Detection] (Shiyu Wu et al., ICML 2025)
 
-+ [Towards Universal AI-Generated Image Detection by Variational Information Bottleneck Network](https://openaccess.thecvf.com/content/CVPR2025/html/Zhang_Towards_Universal_AI-Generated_Image_Detection_by_Variational_Information_Bottleneck_Network_CVPR_2025_paper.html) (Haifeng Zhang et al., CVPR 2025) [:octocat:](https://github.com/oceanzhf/VIBAIGCDetect)
- 
-+ [A Bias-Free Training Paradigm for More General AI-generated Image Detection](https://arxiv.org/abs/2412.17671) (Fabrizio Guilaro et al., CVPR 2025)
-
-+ [Secret Lies in Color: Enhancing AI-Generated Images Detection with Color Distribution Analysis](https://openaccess.thecvf.com/content/CVPR2025/html/Jia_Secret_Lies_in_Color_Enhancing_AI-Generated_Images_Detection_with_Color_CVPR_2025_paper.html) (Zexi Jia et al., CVPR 2025)
-
-+ [Any-Resolution AI-Generated Image Detection by Spectral Learning](https://arxiv.org/abs/2411.19417) (Dimitrios Karageorgiou et al., CVPR 2025) [:octocat:](https://github.com/mever-team/spai)
-
-+ [CO-SPY: Combining Semantic and Pixel Features to Detect Synthetic Images by AI](https://arxiv.org/abs/2503.18286) (Siyuan Cheng et al., CVPR2025) [:octocat:](https://github.com/Megum1/Co-Spy) 
-
-+ [FIRE: Robust Detection of Diffusion-Generated Images via Frequency-Guided Reconstruction Error](https://arxiv.org/abs/2412.07140v2) (Beilin Chu et al., CVPR 2025) [:octocat:](https://github.com/Chuchad/FIRE)
-
++ [PiD: Generalized AI-Generated Images Detection with Pixelwise Decomposition Residuals] (Xinghe Fu et al., ICML 2025)
 
 ## Contents
 
