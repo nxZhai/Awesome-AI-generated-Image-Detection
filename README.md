@@ -140,6 +140,8 @@ If you want to contribute to this list, welcome to send me a pull request or con
 
 ## Dataset bias
 
++ [Dual Data Alignment Makes AI-Generated Image Detector Easier Generalizable](https://arxiv.org/abs/2505.14359) (Ruoxin Chen et al., arxiv 2025)
+
 + [Community Forensics: Using Thousands of Generators to Train Fake Image Detectors](https://arxiv.org/abs/2411.04125v2) (Jeongsoo Park et al., CVPR 2025) [:global_with_meridians:](https://jespark.net/projects/2024/community_forensics/) [:octocat:](https://github.com/JeongsooP/Community-Forensics)
 
 + [Aligned Datasets Improve Detection of Latent Diffusion-Generated Images](https://openreview.net/pdf?id=doBkiqESYq) (Anirudh Sundara Rajan et al., ICLR 2025) [:globe_with_meridians:](https://anisundar18.github.io/AlignedForensics/) [:octocat:](https://github.com/AniSundar18/AlignedForensics) 
@@ -219,8 +221,6 @@ If you want to contribute to this list, welcome to send me a pull request or con
 + [CNNDetect: CNN-generated images are surprisingly easy to spot...for now](https://arxiv.org/abs/1912.11035) (Sheng-Yu Wang et al., CVPR 2020) [:globe_with_meridians:](https://peterwang512.github.io/CNNDetection/) [:octocat:](https://github.com/peterwang512/CNNDetection) 
 
 ## Frequency domain
-
-+ [Dual Data Alignment Makes AI-Generated Image Detector Easier Generalizable](https://arxiv.org/abs/2505.14359) (Ruoxin Chen et al., arxiv 2025)
 
 + [Any-Resolution AI-Generated Image Detection by Spectral Learning](https://arxiv.org/abs/2411.19417) (Dimitrios Karageorgiou et al., CVPR 2025) 
 [:octocat:](https://github.com/mever-team/spai)
