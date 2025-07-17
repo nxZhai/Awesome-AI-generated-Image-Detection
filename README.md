@@ -11,10 +11,32 @@ If you want to contribute to this list, welcome to send me a pull request or con
 
 ## TODOs
 
+- [ ] Add ICCV 2025 papers
 - [ ] Add ICML 2025 paper links & code links 
 - [x] Add ICML 2025 papers
 - [x] Add CVPR 2025 paper links & code links 
 - [x] Add CVPR 2025 paper titles
+
+
+## ICCV2025(to update)
+
++ [Forensic-MoE: Exploring Comprehensive Synthetic Image Detection Traces with Mixture of Experts] (Mingqi Fang et al., ICCV 2025)
+
++ [LEGION: Learning to Ground and Explain for Synthetic Image Detection](https://arxiv.org/abs/2503.15264) (Hengrui Kang et al., ICCV 2025) [:octocat:](https://opendatalab.github.io/LEGION/)
+
++ [LOTA: Bit-Planes Guided AI-Generated Image Detection] (Renxi Cheng et al., ICCV 2025)
+
++ [ForgeLens: Data-Efficient Forgery Focus for Generalizable Forgery Image Detection] (Yingjian Chen et al., ICCV 2025)
+
++ [AIGI-Holmes: Towards Explainable and Generalizable AI-Generated Image Detection via Multimodal Large Language Models] (Ziyin Zhou et al., ICCV 2025)
+
++ [$\bf{D^3}$QE: Learning Discrete Distribution Discrepancy-aware Quantization Error for Autoregressive-Generated Image Detection] (Yanran Zhang  et al., ICCV 2025)
+
++ [Bridging the Gap Between Ideal and Real-world Evaluation: Benchmarking AI-Generated Image Detection in Challenging Scenarios] (Chunxiao Li  et al., ICCV 2025)
+
++ [Diffusion Epistemic Uncertainty with Asymmetric Learning for Diffusion-Generated Image Detection] (Yingsong Huang et al., ICCV 2025)
+
+<!--D3: Training-Free AI-Generated Video Detection Using Second-Order Features-->
 
 
 ## Latest Updates 🔥
@@ -23,11 +45,11 @@ If you want to contribute to this list, welcome to send me a pull request or con
 
 + [Stay-Positive: A Case for Ignoring Real Image Features in Fake Image Detection](https://arxiv.org/abs/2502.07778) (Anirudh Sundara Rajan et al., ICML 2025) [:octocat:](https://github.com/AniSundar18/AlignedForensics) [:globe_with_meridians:](https://anisundar18.github.io/Stay-Positive/)
 
-+ [Are High-Quality AI-Generated Images More Difficult for Models to Detect?] (Yao Xiao et al., ICML 2025)
++ [Are High-Quality AI-Generated Images More Difficult for Models to Detect?](https://icml.cc/virtual/2025/poster/43842) (Yao Xiao et al., ICML 2025)
 
 + [Few-Shot Learner Generalizes Across AI-Generated Image Detection](https://arxiv.org/abs/2501.08763) (Shiyu Wu et al., ICML 2025) [:octocat:](https://github.com/teheperinko541/Few-Shot-AIGI-Detector)
 
-+ [PiD: Generalized AI-Generated Images Detection with Pixelwise Decomposition Residuals] (Xinghe Fu et al., ICML 2025)
++ [PiD: Generalized AI-Generated Images Detection with Pixelwise Decomposition Residuals](https://openreview.net/pdf?id=gye2zYytx6) (Xinghe Fu et al., ICML 2025)
 
 + [Forensic Self-Descriptions Are All You Need for Zero-Shot Detection, Open-Set Source Attribution, and Clustering of AI-generated Images](https://arxiv.org/abs/2503.21003) (Tai Nguyen et al., CVPR 2025)
 
@@ -65,6 +87,8 @@ If you want to contribute to this list, welcome to send me a pull request or con
 
 
 ## Benchmark/Survey
+
++ [AI-GenBench: A New Ongoing Benchmark for AI-Generated Image Detection](https://arxiv.org/abs/2504.20865) (Lorenzo Pellegrini et al., IJCNN workshop 2025) [:octocat:](https://github.com/MI-BioLab/AI-GenBench)
 
 + [Seeing is not always believing: Benchmarking Human and Model Perception of AI-Generated Images](https://arxiv.org/abs/2304.13023) (Zuyu Lu et al., NeurIPS 2023) [:octocat:](https://github.com/Inf-imagine/Sentry)
 
