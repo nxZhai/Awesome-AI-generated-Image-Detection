@@ -26,7 +26,7 @@ If you want to contribute to this list, welcome to send me a pull request or con
 
 + [LOTA: Bit-Planes Guided AI-Generated Image Detection] (Renxi Cheng et al., ICCV 2025)
 
-+ [ForgeLens: Data-Efficient Forgery Focus for Generalizable Forgery Image Detection] (Yingjian Chen et al., ICCV 2025)
++ [ForgeLens: Data-Efficient Forgery Focus for Generalizable Forgery Image Detection](https://arxiv.org/abs/2408.13697) (Yingjian Chen et al., ICCV 2025)
 
 + [AIGI-Holmes: Towards Explainable and Generalizable AI-Generated Image Detection via Multimodal Large Language Models] (Ziyin Zhou et al., ICCV 2025)
 
@@ -45,7 +45,7 @@ If you want to contribute to this list, welcome to send me a pull request or con
 
 + [Stay-Positive: A Case for Ignoring Real Image Features in Fake Image Detection](https://arxiv.org/abs/2502.07778) (Anirudh Sundara Rajan et al., ICML 2025) [:octocat:](https://github.com/AniSundar18/AlignedForensics) [:globe_with_meridians:](https://anisundar18.github.io/Stay-Positive/)
 
-+ [Are High-Quality AI-Generated Images More Difficult for Models to Detect?](https://icml.cc/virtual/2025/poster/43842) (Yao Xiao et al., ICML 2025)
++ [Are High-Quality AI-Generated Images More Difficult for Models to Detect?](https://openreview.net/pdf?id=sKYdVKE1tS) (Yao Xiao et al., ICML 2025)
 
 + [Few-Shot Learner Generalizes Across AI-Generated Image Detection](https://arxiv.org/abs/2501.08763) (Shiyu Wu et al., ICML 2025) [:octocat:](https://github.com/teheperinko541/Few-Shot-AIGI-Detector)
 
