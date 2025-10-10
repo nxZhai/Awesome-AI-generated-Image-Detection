@@ -14,11 +14,15 @@ If you want to contribute to this list, welcome to send me a pull request or con
 + :octocat: Code
 + :bricks: Datasets Download Link
 
+<h2 id="todos">TODOs</h2>
+
+- [ ] Add NeurIPS 2025 papers
+- [ ] Add ICCV 2025 papers
+
 ----
 
 <nav>
   <ul>
-    <li><a href="#todos">TODOs</a></li>
     <li><a href="#Benchmark-Survey">Benchmark / Survey</a></li>
     <li><a href="#Datasets">Datasets</a></li>
     <li>CVPR
@@ -107,18 +111,6 @@ If you want to contribute to this list, welcome to send me a pull request or con
 </nav>
 
 
-
-
-<h2 id="todos">TODOs</h2>
-
-- [ ] Add NeurIPS 2025 papers
-- [ ] Add ICCV 2025 papers
-- [ ] Add ICML 2025 paper links & code links 
-- [x] Add ICML 2025 papers
-- [x] Add CVPR 2025 paper links & code links 
-- [x] Add CVPR 2025 paper titles
-
-
 <h2 id="Benchmark-Survey">Benchmark/Survey</h2>
 
 + [AI-GenBench: A New Ongoing Benchmark for AI-Generated Image Detection](https://arxiv.org/abs/2504.20865) (Lorenzo Pellegrini et al., IJCNN workshop 2025) [:octocat:](https://github.com/MI-BioLab/AI-GenBench)
@@ -126,7 +118,6 @@ If you want to contribute to this list, welcome to send me a pull request or con
 + [Seeing is not always believing: Benchmarking Human and Model Perception of AI-Generated Images](https://arxiv.org/abs/2304.13023) (Zuyu Lu et al., NeurIPS 2023) [:octocat:](https://github.com/Inf-imagine/Sentry)
 
 + [Recent Advances on Generalizable Diffusion-generated Image Detection](https://arxiv.org/abs/2502.19716) (Qijie Xu et al., arxiv 2025) [:octocat:](https://github.com/zju-pi/Awesome-Diffusion-generated-Image-Detection)
-
 
 
 <h2 id="Datasets">Datasets</h2>
