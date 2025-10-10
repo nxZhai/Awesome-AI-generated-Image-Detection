@@ -23,7 +23,8 @@ If you want to contribute to this list, welcome to send me a pull request or con
 
 Use the Table of Contents to quickly browse the repository and jump to the sections you need. It provides direct links to each conference and year, so you can navigate the content without scrolling.
 
-<nav id='toc'>
+<a id="toc"></a>
+<nav>
   <ul>
     <li><a href="#Benchmark-Survey">Benchmark / Survey</a></li>
     <li><a href="#Datasets">Datasets</a></li>
