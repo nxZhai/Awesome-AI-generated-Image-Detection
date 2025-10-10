@@ -27,6 +27,7 @@ Use the Table of Contents to quickly browse the repository and jump to the secti
   <ul>
     <li><a href="#Benchmark-Survey">Benchmark / Survey</a></li>
     <li><a href="#Datasets">Datasets</a></li>
+    <li><a href="#arixv">🔥 Arxiv</a></li>
     <li>CVPR
       <ul>
         <li><a href="#cvpr25">🔥 CVPR 2025</a></li>
@@ -104,7 +105,6 @@ Use the Table of Contents to quickly browse the repository and jump to the secti
     </li>
     <li>Others
       <ul>
-        <li><a href="#arixv">Arxiv</a></li>
         <li><a href="#tools">Tools</a></li>
       </ul>
     </li>
@@ -265,6 +265,8 @@ Use the Table of Contents to quickly browse the repository and jump to the secti
 
 <h2 id='eccv24'>ECCV 2024</h2>
 
++ [Zero-Shot Detection of AI-Generated Images](https://arxiv.org/abs/2409.15875) (Davide Cozzolino et al., ECCV 2024)[:globe_with_meridians:](https://grip-unina.github.io/ZED/) [:octocat:](https://github.com/grip-unina/ZED/)
+
 + [Leveraging Representations from Intermediate Encoder-blocks for Synthetic Image Detection](https://arxiv.org/abs/2402.19091) (Christos Koutlis et al., ECCV 2024) [:octocat:](https://github.com/mever-team/rine)
 
 + [Your diffusion model is an implicit synthetic image detector](https://hal.science/hal-04713283v1) (Xi Wang et al, ECCV Workshop 2024)
@@ -361,6 +363,8 @@ Use the Table of Contents to quickly browse the repository and jump to the secti
 
 <h2 id='arixv'>Arxiv</h2>
 
+<h3>2025</h3>
+
 + [All Patches Matter, More Patches Better: Enhance AI-Generated Image Detection via Panoptic Patch Learning](https://arxiv.org/abs/2504.01396) (Zheng Yang et al., arxiv 2025)
 
 + [Spot the Fake: Large Multimodal Model-Based Synthetic Image Detection with Artifact Explanation](https://arxiv.org/abs/2503.14905v1) (Siwei Wen et al., arxiv 2025) [:octocat:](https://github.com/opendatalab/FakeVLM)
@@ -369,17 +373,15 @@ Use the Table of Contents to quickly browse the repository and jump to the secti
 
 + [SFLD: Reducing the content bias for AI-generated Image Detection](https://arxiv.org/abs/2502.17105) (Seoyeon Gye et al., arxiv 2025)
 
+<h3>2024</h3>
+
 + [HFI: A unified framework for training-free detection and implicit watermarking of latent diffusion model generated images](https://arxiv.org/abs/2412.20704) (Sungik Choi et al, arxiv 2024)
 
 + [Learning on Less: Constraining Pre-trained Model Learning for Generalizable Diffusion-Generated Image Detection](https://arxiv.org/abs/2412.00665) (Yingjian Chen et al, arxiv 2024)
 
 + [Towards More Accurate Fake Detection on Images Generated from Advanced Generative and Neural Rendering Models](https://arxiv.org/abs/2411.08642) (Chengdong Dong et al., arxiv 2024)
 
-+ [Orthogonal Subspace Decomposition for Generalizable AI-Generated Image Detection](https://arxiv.org/abs/2411.15633) (Zhiyuan Yan et al., arxiv 2025) [:octocat:](https://github.com/YZY-stack/Effort-AIGI-Detection)
-
 + [Time Step Generating: A Universal Synthesized Deepfake Image Detector](https://arxiv.org/abs/2411.11016v2) (Ziyue Zeng et al., arxiv 2024) [:octocat:](https://github.com/NuayHL/TimeStepGenerating)
-
-+ [Zero-Shot Detection of AI-Generated Images](https://arxiv.org/abs/2409.15875) (Davide Cozzolino et al., ECCV 2024)[:globe_with_meridians:](https://grip-unina.github.io/ZED/) [:octocat:](https://github.com/grip-unina/ZED/)
 
 + [RIGID: A Training-Free and Model-Agnostic Framework for Robust AI-Generated Image Detection](https://arxiv.org/abs/2405.20112) (Davide Cozzolino et al., arxiv 2024)
 
@@ -392,6 +394,8 @@ Use the Table of Contents to quickly browse the repository and jump to the secti
 + [Fake or JPEG? Revealing Common Biases in Generated Image Detection Datasets](https://arxiv.org/abs/2403.17608) (Patrick Grommelt et al., arxiv 2024) [:globe_with_meridians:](https://www.unbiased-genimage.org/) [:octocat:](https://github.com/gendetection/UnbiasedGenImage) 
 
 + [A Single Simple Patch is All You Need for AI-generated Image Detection](https://arxiv.org/abs/2402.01123) (Jiaxuan Chen, arxiv 2024)[:octocat:](https://github.com/bcmi/SSP-AI-Generated-Image-Detection)
+
+<h3>2023</h3>
 
 + [GenDet: Towards Good Generalizations for AI-Generated Image Detection](https://arxiv.org/abs/2312.08880) (Mingjian Zhu, arxiv 2023)
 
