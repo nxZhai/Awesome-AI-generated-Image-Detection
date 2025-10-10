@@ -116,6 +116,7 @@ Use the Table of Contents to quickly browse the repository and jump to the secti
 
 <h2 id="Benchmark-Survey">Benchmark/Survey</h2>
 
++ [Is Artificial Intelligence Generated Image Detection a Solved Problem?](https://arxiv.org/abs/2505.12335) (Ziqiang Li et al., NeurIPS 2025) [:octocat:](https://github.com/HorizonTEL/AIGIBench) [:bricks:](https://huggingface.co/datasets/HorizonTEL/AIGIBench/tree/main)
 
 + [AI-GenBench: A New Ongoing Benchmark for AI-Generated Image Detection](https://arxiv.org/abs/2504.20865) (Lorenzo Pellegrini et al., IJCNN workshop 2025) [:octocat:](https://github.com/MI-BioLab/AI-GenBench)
 
@@ -151,29 +152,31 @@ Use the Table of Contents to quickly browse the repository and jump to the secti
 
 <h2 id='nips25'>NeurIPS 2025</h2>
 
++ [Is Artificial Intelligence Generated Image Detection a Solved Problem?](https://arxiv.org/abs/2505.12335) (Ziqiang Li et al., NeurIPS 2025) [:octocat:](https://github.com/HorizonTEL/AIGIBench) [:bricks:](https://huggingface.co/datasets/HorizonTEL/AIGIBench/tree/main)
+
 + [Dual Data Alignment Makes AI-Generated Image Detector Easier Generalizable](https://arxiv.org/abs/2505.14359) (Ruoxin Chen et al., NeurIPS 2025) [:octocat:](https://github.com/roy-ch/Dual-Data-Alignment)
+
++ [MLEP: Multi-granularity Local Entropy Patterns for Generalized AI-generated Image Detection](https://www.arxiv.org/abs/2504.13726) (Lin Yuan et al., NeurIPS 2025)
 
 + [Training-free Detection of AI-generated images via Cropping Robustness] (Sungik Choi et al., NeurIPS 2025)
 
 + [Denoising Trajectory Analysis for Zero-Shot AI-Generated Image Detection] (Yachao Liang et al., NeurIPS 2025)
 
-+ [MLEP: Multi-granularity Local Entropy Patterns for Generalized AI-generated Image Detection](https://www.arxiv.org/abs/2504.13726) (Lin Yuan et al., NeurIPS 2025)
-
 <p align="right"><a href="#toc">Back to Table of Contents ↑</a></p>
 
 <h2 id='iccv25'>ICCV 2025</h2>
 
-+ [Forensic-MoE: Exploring Comprehensive Synthetic Image Detection Traces with Mixture of Experts] (Mingqi Fang et al., ICCV 2025)
-
 + [LEGION: Learning to Ground and Explain for Synthetic Image Detection](https://arxiv.org/abs/2503.15264) (Hengrui Kang et al., ICCV 2025) [:octocat:](https://opendatalab.github.io/LEGION/)
-
-+ [LOTA: Bit-Planes Guided AI-Generated Image Detection] (Renxi Cheng et al., ICCV 2025)
 
 + [ForgeLens: Data-Efficient Forgery Focus for Generalizable Forgery Image Detection](https://arxiv.org/abs/2408.13697) (Yingjian Chen et al., ICCV 2025)
 
 + [AIGI-Holmes: Towards Explainable and Generalizable AI-Generated Image Detection via Multimodal Large Language Models](https://arxiv.org/abs/2507.02664) (Ziyin Zhou et al., ICCV 2025) [:octocat:](https://github.com/wyczzy/AIGI-Holmes)
 
 + [D3QE: Learning Discrete Distribution Discrepancy-aware Quantization Error for Autoregressive-Generated Image Detection](https://arxiv.org/abs/2510.05891) (Yanran Zhang  et al., ICCV 2025) [:octocat:](https://github.com/Zhangyr2022/D3QE)
+
++ [LOTA: Bit-Planes Guided AI-Generated Image Detection] (Renxi Cheng et al., ICCV 2025)
+
++ [Forensic-MoE: Exploring Comprehensive Synthetic Image Detection Traces with Mixture of Experts] (Mingqi Fang et al., ICCV 2025)
 
 + [Bridging the Gap Between Ideal and Real-world Evaluation: Benchmarking AI-Generated Image Detection in Challenging Scenarios] (Chunxiao Li  et al., ICCV 2025)
 
