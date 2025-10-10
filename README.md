@@ -27,7 +27,7 @@ If you want to contribute to this list, welcome to send me a pull request or con
     <li><a href="#Datasets">Datasets</a></li>
     <li>CVPR
       <ul>
-        <li><a href="#cvpr25">CVPR 2025</a></li>
+        <li><a href="#cvpr25">🔥 CVPR 2025</a></li>
         <li><a href="#cvpr24">CVPR 2024</a></li>
         <li><a href="#cvpr23">CVPR 2023</a></li>
         <li><a href="#cvpr20">CVPR 2020</a></li>
@@ -35,20 +35,20 @@ If you want to contribute to this list, welcome to send me a pull request or con
     </li>
     <li>ICCV
       <ul>
-        <li><a href="#iccv25">ICCV 2025</a></li>
+        <li><a href="#iccv25">🔥 ICCV 2025</a></li>
         <li><a href="#iccv23">ICCV 2023</a></li>
       </ul>
     </li>
     <li>ICML
       <ul>
-        <li><a href="#icml25">ICML 2025</a></li>
+        <li><a href="#icml25">🔥 ICML 2025</a></li>
         <li><a href="#icml24">ICML 2024</a></li>
         <li><a href="#icml20">ICML 2020</a></li>
       </ul>
     </li>
     <li>NeurIPS
       <ul>
-        <li><a href="#nips25">NeurIPS 2025</a></li>
+        <li><a href="#nips25">🔥 NeurIPS 2025</a></li>
         <li><a href="#nips24">NeurIPS 2024</a></li>
       </ul>
     </li>
