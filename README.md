@@ -21,9 +21,9 @@ If you want to contribute to this list, welcome to send me a pull request or con
 
 ----
 
+<a id="toc"></a>
 Use the Table of Contents to quickly browse the repository and jump to the sections you need. It provides direct links to each conference and year, so you can navigate the content without scrolling.
 
-<a id="toc"></a>
 <nav>
   <ul>
     <li><a href="#Benchmark-Survey">Benchmark / Survey</a></li>
@@ -157,7 +157,7 @@ Use the Table of Contents to quickly browse the repository and jump to the secti
 
 + [Denoising Trajectory Analysis for Zero-Shot AI-Generated Image Detection] (Yachao Liang et al., NeurIPS 2025)
 
-+ [MLEP: Multi-granularity Local Entropy Patterns for Generalized AI-generated Image Detection] (Lin Yuan et al., NeurIPS 2025)
++ [MLEP: Multi-granularity Local Entropy Patterns for Generalized AI-generated Image Detection](https://www.arxiv.org/abs/2504.13726) (Lin Yuan et al., NeurIPS 2025)
 
 <p align="right"><a href="#toc">Back to Table of Contents ↑</a></p>
 
@@ -171,9 +171,9 @@ Use the Table of Contents to quickly browse the repository and jump to the secti
 
 + [ForgeLens: Data-Efficient Forgery Focus for Generalizable Forgery Image Detection](https://arxiv.org/abs/2408.13697) (Yingjian Chen et al., ICCV 2025)
 
-+ [AIGI-Holmes: Towards Explainable and Generalizable AI-Generated Image Detection via Multimodal Large Language Models] (Ziyin Zhou et al., ICCV 2025)
++ [AIGI-Holmes: Towards Explainable and Generalizable AI-Generated Image Detection via Multimodal Large Language Models](https://arxiv.org/abs/2507.02664) (Ziyin Zhou et al., ICCV 2025) [:octocat:](https://github.com/wyczzy/AIGI-Holmes)
 
-+ [$\bf{D^3}$QE: Learning Discrete Distribution Discrepancy-aware Quantization Error for Autoregressive-Generated Image Detection] (Yanran Zhang  et al., ICCV 2025)
++ [D3QE: Learning Discrete Distribution Discrepancy-aware Quantization Error for Autoregressive-Generated Image Detection](https://arxiv.org/abs/2510.05891) (Yanran Zhang  et al., ICCV 2025) [:octocat:](https://github.com/Zhangyr2022/D3QE)
 
 + [Bridging the Gap Between Ideal and Real-world Evaluation: Benchmarking AI-Generated Image Detection in Challenging Scenarios] (Chunxiao Li  et al., ICCV 2025)
 
