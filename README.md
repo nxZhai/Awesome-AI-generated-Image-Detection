@@ -369,6 +369,10 @@ Use the Table of Contents to quickly browse the repository and jump to the secti
 
 <h3>2025</h3>
 
++ [Brought a Gun to a Knife Fight: Modern VFM Baselines Outgun Specialized Detectors on In-the-Wild AI Image Detection](https://arxiv.org/abs/2509.12995) (Yue Zhou et al., arxiv 2025)
+
++ [TrueMoE: Dual-Routing Mixture of Discriminative Experts for Synthetic Image Detection](https://arxiv.org/abs/2509.15741) (Laixin Zhang et al., arxiv 2025)
+
 + [All Patches Matter, More Patches Better: Enhance AI-Generated Image Detection via Panoptic Patch Learning](https://arxiv.org/abs/2504.01396) (Zheng Yang et al., arxiv 2025)
 
 + [Spot the Fake: Large Multimodal Model-Based Synthetic Image Detection with Artifact Explanation](https://arxiv.org/abs/2503.14905v1) (Siwei Wen et al., arxiv 2025) [:octocat:](https://github.com/opendatalab/FakeVLM)
