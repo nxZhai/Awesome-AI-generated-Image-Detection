@@ -11,11 +11,24 @@ If you want to contribute to this list, welcome to send me a pull request or con
 
 ## TODOs
 
+- [ ] Add NeurIPS 2025 papers
 - [ ] Add ICCV 2025 papers
 - [ ] Add ICML 2025 paper links & code links 
 - [x] Add ICML 2025 papers
 - [x] Add CVPR 2025 paper links & code links 
 - [x] Add CVPR 2025 paper titles
+
+
+## NeurIPS2025(to update)
+
++ [Dual Data Alignment Makes AI-Generated Image Detector Easier Generalizable](https://arxiv.org/abs/2505.14359) (Ruoxin Chen et al., NeurIPS 2025) [:octocat:](https://github.com/roy-ch/Dual-Data-Alignment)
+
++ [Training-free Detection of AI-generated images via Cropping Robustness] (Sungik Choi et al., NeurIPS 2025)
+
++ [Denoising Trajectory Analysis for Zero-Shot AI-Generated Image Detection] (Yachao Liang et al., NeurIPS 2025)
+
++ [MLEP: Multi-granularity Local Entropy Patterns for Generalized AI-generated Image Detection] (Lin Yuan et al., NeurIPS 2025)
+
 
 
 ## ICCV2025(to update)
@@ -65,6 +78,8 @@ If you want to contribute to this list, welcome to send me a pull request or con
 
 - [Awesome AI-generated Image Detection](#awesome-ai-generated-image-detection)
   - [TODOs](#todos)
+  - [NeurIPS2025(to update)](#neurips2025to-update)
+  - [ICCV2025(to update)](#iccv2025to-update)
   - [Latest Updates 🔥](#latest-updates-)
   - [Contents](#contents)
   - [Benchmark/Survey](#benchmarksurvey)
