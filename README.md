@@ -132,11 +132,11 @@ Use the Table of Contents to quickly browse the repository and jump to the secti
 + []() (, ) [:globe_with_meridians:]() [:octocat:]() [:bricks:]()
 -->
 
-+ [Spot the Fake: Large Multimodal Model-Based Synthetic Image Detection with Artifact Explanation](https://arxiv.org/abs/2503.14905v1) (Siwei Wen et al., arxiv 2025) [:octocat:](https://github.com/opendatalab/FakeVLM) [:bricks:](https://huggingface.co/datasets/lingcco/FakeClue)
++ [**Spot the Fake**: Large Multimodal Model-Based Synthetic Image Detection with Artifact Explanation](https://arxiv.org/abs/2503.14905v1) (Siwei Wen et al., NeurIPS 2025) [:octocat:](https://github.com/opendatalab/FakeVLM) [:bricks:](https://huggingface.co/datasets/lingcco/FakeClue)
 
 + [**CO-SPY**: Combining Semantic and Pixel Features to Detect Synthetic Images by AI](https://arxiv.org/abs/2503.18286) (Siyuan Cheng et al., CVPR2025) [:octocat:](https://github.com/Megum1/Co-Spy) [:bricks:](https://huggingface.co/datasets/ruojiruoli/Co-Spy-Bench)
 
-+ [A Sanity Check for AI-generated Image Detection](https://arxiv.org/abs/2406.19435) (Shilin Yan et al., ICLR 2025) [:octocat:](https://github.com/shilinyan99/AIDE) [:bricks:](https://github.com/shilinyan99/AIDE#-chameleon)
++ [**AIDE**: A Sanity Check for AI-generated Image Detection](https://arxiv.org/abs/2406.19435) (Shilin Yan et al., ICLR 2025) [:octocat:](https://github.com/shilinyan99/AIDE) [:bricks:](https://github.com/shilinyan99/AIDE#-chameleon)
 
 + [**ImagiNet**: A Multi-Content Dataset for Generalizable Synthetic Image Detection via Contrastive Learning](https://arxiv.org/abs/2407.20020v3) (Delyan Boychev et al., ECCV 2024) [:octocat:](https://github.com/delyan-boychev/imaginet) [:bricks:](https://huggingface.co/datasets/delyanboychev/imaginet)
 
@@ -152,9 +152,13 @@ Use the Table of Contents to quickly browse the repository and jump to the secti
 
 <h2 id='nips25'>NeurIPS 2025</h2>
 
++ [Spot the Fake: Large Multimodal Model-Based Synthetic Image Detection with Artifact Explanation](https://arxiv.org/abs/2503.14905v1) (Siwei Wen et al., NeurIPS 2025) [:octocat:](https://github.com/opendatalab/FakeVLM) [:bricks:](https://huggingface.co/datasets/lingcco/FakeClue)
+
++ [FerretNet: Efficient Synthetic Image Detection via Local Pixel Dependencies](https://arxiv.org/abs/2509.20890) (Shuqao Liang et al., NeurIPS 2025)
+
 + [Is Artificial Intelligence Generated Image Detection a Solved Problem?](https://arxiv.org/abs/2505.12335) (Ziqiang Li et al., NeurIPS 2025) [:octocat:](https://github.com/HorizonTEL/AIGIBench) [:bricks:](https://huggingface.co/datasets/HorizonTEL/AIGIBench/tree/main)
 
-+ [Dual Data Alignment Makes AI-Generated Image Detector Easier Generalizable](https://arxiv.org/abs/2505.14359) (Ruoxin Chen et al., NeurIPS 2025) [:octocat:](https://github.com/roy-ch/Dual-Data-Alignment)
++ [Dual Data Alignment Makes AI-Generated Image Detector Easier Generalizable](https://arxiv.org/abs/2505.14359) (Ruoxin Chen et al., NeurIPS 2025 Spotlight) [:octocat:](https://github.com/roy-ch/Dual-Data-Alignment)
 
 + [MLEP: Multi-granularity Local Entropy Patterns for Generalized AI-generated Image Detection](https://www.arxiv.org/abs/2504.13726) (Lin Yuan et al., NeurIPS 2025)
 
@@ -188,7 +192,7 @@ Use the Table of Contents to quickly browse the repository and jump to the secti
 
 <h2 id="icml25">ICML 2025</h2>
 
-+ [Orthogonal Subspace Decomposition for Generalizable AI-Generated Image Detection](https://arxiv.org/abs/2411.15633) (Zhiyuan Yan et al., ICML 2025) [:octocat:](https://github.com/YZY-stack/Effort-AIGI-Detection)
++ [Orthogonal Subspace Decomposition for Generalizable AI-Generated Image Detection](https://arxiv.org/abs/2411.15633) (Zhiyuan Yan et al., ICML 2025 Oral) [:octocat:](https://github.com/YZY-stack/Effort-AIGI-Detection)
 
 + [Stay-Positive: A Case for Ignoring Real Image Features in Fake Image Detection](https://arxiv.org/abs/2502.07778) (Anirudh Sundara Rajan et al., ICML 2025) [:octocat:](https://github.com/AniSundar18/AlignedForensics) [:globe_with_meridians:](https://anisundar18.github.io/Stay-Positive/)
 
