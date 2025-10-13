@@ -438,4 +438,4 @@ If you find this project useful for your research, please use the following BibT
 
 ## Acknowledgments
 
-The page is borrowed from [Awesome Dataset Distillation](https://github.com/Guang000/Awesome-Dataset-Distillation) and [Awesome-Deepfakes-Detection](https://github.com/Daisy-Zhang/Awesome-Deepfakes-Detection). Thanks for their great work!
+The list is inspired by [Awesome Dataset Distillation](https://github.com/Guang000/Awesome-Dataset-Distillation) and [Awesome-Deepfakes-Detection](https://github.com/Daisy-Zhang/Awesome-Deepfakes-Detection). Thanks for their great work!
