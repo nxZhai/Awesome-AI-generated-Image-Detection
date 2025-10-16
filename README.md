@@ -58,7 +58,7 @@ Use the Table of Contents to quickly browse the repository and jump to the secti
     </li>
     <li>ICLR
       <ul>
-        <li><a href="#iclr26">🔥 ICLR 2026 *PrePrint*</li>
+        <li><a href="#iclr26">🔥 ICLR 2026 *PrePrint*</a></li>
         <li><a href="#iclr25">ICLR 2025</a></li>
       </ul>
     </li>
@@ -371,7 +371,7 @@ Use the Table of Contents to quickly browse the repository and jump to the secti
 
 <p align="right"><a href="#toc">Back to Table of Contents ↑</a></p>
 
-<h2 id='iclr26'>ICLR 2026 preprint</h2>
+<h2 id='#iclr26'>ICLR 2026 preprint</h2>
 
 + [So-Fake: Benchmarking Social Media Image Forgery Detection](https://openreview.net/forum?id=frqg27qMkd)
 
