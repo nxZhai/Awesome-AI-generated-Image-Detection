@@ -137,6 +137,8 @@ Use the Table of Contents to quickly browse the repository and jump to the secti
 
 + [**CO-SPY**: Combining Semantic and Pixel Features to Detect Synthetic Images by AI](https://arxiv.org/abs/2503.18286) (Siyuan Cheng et al., CVPR2025) [:octocat:](https://github.com/Megum1/Co-Spy) [:bricks:](https://huggingface.co/datasets/ruojiruoli/Co-Spy-Bench)
 
++ [**LOKI**: A Comprehensive Synthetic Data Detection Benchmark using Large Multimodal Models](https://arxiv.org/abs/2410.09732) (Junyan Ye et al., ICLR 2025 spotlight) [:octocat:](https://github.com/opendatalab/LOKI) [:globe_with_meridians:](https://opendatalab.github.io/LOKI/) [:bricks:](https://huggingface.co/datasets/bczhou/LOKI)
+
 + [**AIDE**: A Sanity Check for AI-generated Image Detection](https://arxiv.org/abs/2406.19435) (Shilin Yan et al., ICLR 2025) [:octocat:](https://github.com/shilinyan99/AIDE) [:bricks:](https://github.com/shilinyan99/AIDE#-chameleon)
 
 + [**ImagiNet**: A Multi-Content Dataset for Generalizable Synthetic Image Detection via Contrastive Learning](https://arxiv.org/abs/2407.20020v3) (Delyan Boychev et al., ECCV 2024) [:octocat:](https://github.com/delyan-boychev/imaginet) [:bricks:](https://huggingface.co/datasets/delyanboychev/imaginet)
@@ -235,6 +237,8 @@ Use the Table of Contents to quickly browse the repository and jump to the secti
 + [Aligned Datasets Improve Detection of Latent Diffusion-Generated Images](https://openreview.net/pdf?id=doBkiqESYq) (Anirudh Sundara Rajan et al., ICLR 2025) [:globe_with_meridians:](https://anisundar18.github.io/AlignedForensics/) [:octocat:](https://github.com/AniSundar18/AlignedForensics) 
 
 + [Manifold Induced Biases for Zero-shot and Few-shot Detection of Generated Images](https://openreview.net/pdf?id=7gGl6HB5Zd) (Jonathan Brokman et al., ICLR 2025)
+
++ [LOKI: A Comprehensive Synthetic Data Detection Benchmark using Large Multimodal Models](https://arxiv.org/abs/2410.09732) (Junyan Ye et al., ICLR 2025 spotlight) [:octocat:](https://github.com/opendatalab/LOKI) [:globe_with_meridians:](https://opendatalab.github.io/LOKI/) [:bricks:](https://huggingface.co/datasets/bczhou/LOKI)
 
 <p align="right"><a href="#toc">Back to Table of Contents ↑</a></p>
 
