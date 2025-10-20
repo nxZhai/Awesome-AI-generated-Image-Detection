@@ -186,7 +186,7 @@ Use the Table of Contents to quickly browse the repository and jump to the secti
 
 + [D3QE: Learning Discrete Distribution Discrepancy-aware Quantization Error for Autoregressive-Generated Image Detection](https://arxiv.org/abs/2510.05891) (Yanran Zhang  et al., ICCV 2025) [:octocat:](https://github.com/Zhangyr2022/D3QE)
 
-+ [LOTA: Bit-Planes Guided AI-Generated Image Detection] (Renxi Cheng et al., ICCV 2025)
++ [LOTA: Bit-Planes Guided AI-Generated Image Detection](https://www.arxiv.org/abs/2510.14230) (Renxi Cheng et al., ICCV 2025)
 
 + [Forensic-MoE: Exploring Comprehensive Synthetic Image Detection Traces with Mixture of Experts] (Mingqi Fang et al., ICCV 2025)
 
