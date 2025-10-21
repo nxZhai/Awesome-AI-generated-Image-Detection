@@ -158,6 +158,8 @@ Use the Table of Contents to quickly browse the repository and jump to the secti
 
 <h2 id='nips25'>NeurIPS 2025</h2>
 
++ [Towards Generalizable Detector for Generated Image]() (Qianshu Cai et al., NeurIPS 2025) [:octocat:](https://github.com/dav-joy-thon/DEnD-Detection)
+
 + [ForensicHub: A Unified Benchmark & Codebase for All-Domain Fake Image Detection and Localization](https://arxiv.org/abs/2505.11003) (Bo Du et al., NeurIPS 2025) [:octocat:](https://github.com/scu-zjz/ForensicHub) [:globe_with_meridians:](https://scu-zjz.github.io/ForensicHub-doc/)
 
 + [Spot the Fake: Large Multimodal Model-Based Synthetic Image Detection with Artifact Explanation](https://arxiv.org/abs/2503.14905v1) (Siwei Wen et al., NeurIPS 2025) [:octocat:](https://github.com/opendatalab/FakeVLM) [:bricks:](https://huggingface.co/datasets/lingcco/FakeClue)
