@@ -458,6 +458,8 @@ Use the Table of Contents to quickly browse the repository and jump to the secti
 
 <h3>2024</h3>
 
++ [A Single Simple Patch is All You Need for AI-generated Image Detection](https://arxiv.org/abs/2402.01123) (Jiaxuan Chen et al., arxiv 2024) [:octocat:](https://github.com/bcmi/SSP-AI-Generated-Image-Detection)
+
 + [HFI: A unified framework for training-free detection and implicit watermarking of latent diffusion model generated images](https://arxiv.org/abs/2412.20704) (Sungik Choi et al, arxiv 2024)
 
 + [Learning on Less: Constraining Pre-trained Model Learning for Generalizable Diffusion-Generated Image Detection](https://arxiv.org/abs/2412.00665) (Yingjian Chen et al, arxiv 2024)
