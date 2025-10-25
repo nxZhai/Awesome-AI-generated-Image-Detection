@@ -180,6 +180,8 @@ Use the Table of Contents to quickly browse the repository and jump to the secti
 
 <h2 id='iccv25'>ICCV 2025</h2>
 
++ [CatAID: Category-Guided AI-Generated Image Detection via Vision-Language Model Adaptation](https://openaccess.thecvf.com/content/ICCV2025W/APAI/html/Cai_CatAID_Category-Guided_AI-Generated_Image_Detection_via_Vision-Language_Model_Adaptation_ICCVW_2025_paper.html) (Yu Cai et al., ICCV 2025)
+
 + [LEGION: Learning to Ground and Explain for Synthetic Image Detection](https://arxiv.org/abs/2503.15264) (Hengrui Kang et al., ICCV 2025) [:octocat:](https://opendatalab.github.io/LEGION/)
 
 + [ForgeLens: Data-Efficient Forgery Focus for Generalizable Forgery Image Detection](https://arxiv.org/abs/2408.13697) (Yingjian Chen et al., ICCV 2025)
