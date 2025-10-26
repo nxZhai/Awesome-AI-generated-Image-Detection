@@ -152,7 +152,7 @@ Use the Table of Contents to quickly browse the repository and jump to the secti
 
 - [**CNNDetect**: CNN-generated images are surprisingly easy to spot...for now](https://arxiv.org/abs/1912.11035) (Sheng-Yu Wang et al., CVPR 2020) [:globe_with_meridians:](https://peterwang512.github.io/CNNDetection/) [:octocat:](https://github.com/peterwang512/CNNDetection) [:bricks:](https://github.com/peterwang512/CNNDetection?tab=readme-ov-file#3-dataset)
 
-<a href="#to c"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
+<p align="right"><a href="#toc">Back to TOC ↑</a></p>
 
 <h2 id='nips25'>NeurIPS 2025</h2>
 
