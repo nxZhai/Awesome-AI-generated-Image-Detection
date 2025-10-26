@@ -126,7 +126,7 @@ Use the Table of Contents to quickly browse the repository and jump to the secti
 
 - [Recent Advances on Generalizable Diffusion-generated Image Detection](https://arxiv.org/abs/2502.19716) (Qijie Xu et al., arxiv 2025) [:octocat:](https://github.com/zju-pi/Awesome-Diffusion-generated-Image-Detection)
 
-<a href="#toc"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
+<p align="right"><a href="#toc">Back to TOC ↑</a></p>
 
 <h2 id="Datasets">Datasets</h2>
 
@@ -174,7 +174,7 @@ Use the Table of Contents to quickly browse the repository and jump to the secti
 
 - [Denoising Trajectory Analysis for Zero-Shot AI-Generated Image Detection] (Yachao Liang et al., NeurIPS 2025)
 
-<a href="#toc"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
+<p align="right"><a href="#toc">Back to TOC ↑</a></p>
 
 <h2 id='iccv25'>ICCV 2025</h2>
 
@@ -198,7 +198,7 @@ Use the Table of Contents to quickly browse the repository and jump to the secti
 
 <!--D3: Training-Free AI-Generated Video Detection Using Second-Order Features-->
 
-<a href="#toc"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
+<p align="right"><a href="#toc">Back to TOC ↑</a></p>
 
 <h2 id="icml25">ICML 2025</h2>
 
@@ -212,7 +212,7 @@ Use the Table of Contents to quickly browse the repository and jump to the secti
 
 - [PiD: Generalized AI-Generated Images Detection with Pixelwise Decomposition Residuals](https://openreview.net/pdf?id=gye2zYytx6) (Xinghe Fu et al., ICML 2025)
 
-<a href="#toc"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
+<p align="right"><a href="#toc">Back to TOC ↑</a></p>
 
 <h2 id='cvpr25'>CVPR 2025</h2>
 
@@ -235,7 +235,7 @@ Use the Table of Contents to quickly browse the repository and jump to the secti
 
 - [CO-SPY: Combining Semantic and Pixel Features to Detect Synthetic Images by AI](https://arxiv.org/abs/2503.18286) (Siyuan Cheng et al., CVPR2025) [:octocat:](https://github.com/Megum1/Co-Spy)
 
-<a href="#toc"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
+<p align="right"><a href="#toc">Back to TOC ↑</a></p>
 
 <h2 id='iclr25'>ICLR 2025</h2>
 
@@ -247,19 +247,19 @@ Use the Table of Contents to quickly browse the repository and jump to the secti
 
 - [LOKI: A Comprehensive Synthetic Data Detection Benchmark using Large Multimodal Models](https://arxiv.org/abs/2410.09732) (Junyan Ye et al., ICLR 2025 spotlight) [:octocat:](https://github.com/opendatalab/LOKI) [:globe_with_meridians:](https://opendatalab.github.io/LOKI/) [:bricks:](https://huggingface.co/datasets/bczhou/LOKI)
 
-<a href="#toc"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
+<p align="right"><a href="#toc">Back to TOC ↑</a></p>
 
 <h2 id='aaai25'>AAAI 2025</h2>
 
 - [C2P-CLIP: Injecting Category Common Prompt in CLIP to Enhance Generalization in Deepfake Detection](https://arxiv.org/abs/2408.09647) (Chuangchuang Tan et al. AAAI 2025) [:octocat:](https://github.com/chuangchuangtan/C2P-CLIP-DeepfakeDetection)
 
-<a href="#toc"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
+<p align="right"><a href="#toc">Back to TOC ↑</a></p>
 
 <h2 id='kdd25'>KDD 2025</h2>
 
 - [Improving Synthetic Image Detection Towards Generalization: An Image Transformation Perspective](https://arxiv.org/abs/2408.06741) (Ouxiang Li, KDD 2025) [:octocat:](https://github.com/Ouxiang-Li/SAFE)
 
-<a href="#toc"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
+<p align="right"><a href="#toc">Back to TOC ↑</a></p>
 
 <h2 id='cvpr24'>CVPR 2024</h2>
 
@@ -275,13 +275,13 @@ Use the Table of Contents to quickly browse the repository and jump to the secti
 
 - [Shadows Don't Lie and Lines Can't Bend! Generative Models don't know Projective Geometry...for now](https://arxiv.org/abs/2311.17138) (Ayush Sarkar et al., CVPR24) [:globe_with_meridians:](https://projective-geometry.github.io/) [:octocat:](https://github.com/hanlinm2/projective-geometry/)
 
-<a href="#toc"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
+<p align="right"><a href="#toc">Back to TOC ↑</a></p>
 
 <h2 id='icml24'>ICML 2024</h2>
 
 - [DRCT: Diffusion Reconstruction Contrastive Training towards Universal Detection of Diffusion Generated Images](https://openreview.net/forum?id=oRLwyayrh1) (Baoying Chen et al., ICML 2024) [:octocat:](https://github.com/beibuwandeluori/DRCT)
 
-<a href="#toc"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
+<p align="right"><a href="#toc">Back to TOC ↑</a></p>
 
 <h2 id='eccv24'>ECCV 2024</h2>
 
@@ -291,31 +291,31 @@ Use the Table of Contents to quickly browse the repository and jump to the secti
 
 - [Your diffusion model is an implicit synthetic image detector](https://hal.science/hal-04713283v1) (Xi Wang et al, ECCV Workshop 2024)
 
-<a href="#toc"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
+<p align="right"><a href="#toc">Back to TOC ↑</a></p>
 
 <h2 id='icmr24'>ICMR 2024</h2>
 
 - [Clipping the deception: Adapting vision-language models for universal deepfake detection](https://arxiv.org/pdf/2402.12927) (Sohail Ahmed Khan et al., ICMR 2024) [:octocat:](https://github.com/sohailahmedkhan/CLIPping-the-Deception)
 
-<a href="#toc"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
+<p align="right"><a href="#toc">Back to TOC ↑</a></p>
 
 <h2 id='ccs24'>CCS 2024</h2>
 
 - [De-fake: Detection and attribution of fake images generated by text-to-image generation models](https://arxiv.org/abs/2210.06998) (Zeyang Sha et al., CCS 2024) [:octocat:](https://github.com/zeyangsha/De-Fake)
 
-<a href="#toc"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
+<p align="right"><a href="#toc">Back to TOC ↑</a></p>
 
 <h2 id='aaai24'>AAAI 2024</h2>
 
 - [Frequency-aware deepfake detection: Improving generalizability through frequency space domain learning](https://ojs.aaai.org/index.php/AAAI/article/view/28310) (Chuangchuang Tan et al., AAAI 2024) [:octocat:](https://github.com/chuangchuangtan/FreqNet-DeepfakeDetection)
 
-<a href="#toc"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
+<p align="right"><a href="#toc">Back to TOC ↑</a></p>
 
 <h2 id='nips24'>NeurIPS 2024</h2>
 
 - [Breaking Semantic Artifacts for Generalized AI-generated Image Detection](https://proceedings.neurips.cc/paper_files/paper/2024/file/6dddcff5b115b40c998a08fbd1cea4d7-Paper-Conference.pdf) (Chende Zhang et al., NeurIPS 2024) [:octocat:](https://github.com/Zig-HS/FakeImageDetection?tab=readme-ov-file)
 
-<a href="#toc"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
+<p align="right"><a href="#toc">Back to TOC ↑</a></p>
 
 <h2 id='cvpr23'>CVPR 2023</h2>
 
@@ -323,25 +323,25 @@ Use the Table of Contents to quickly browse the repository and jump to the secti
 
 - [Towards Universal Fake Image Detectors that Generalize Across Generative Models](https://arxiv.org/abs/2302.10174) (Utkarsh Ojha et al., CVPR 2023) [:octocat:](https://github.com/WisconsinAIVision/UniversalFakeDetect)
 
-<a href="#toc"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
+<p align="right"><a href="#toc">Back to TOC ↑</a></p>
 
 <h2 id='iccv23'>ICCV 2023</h2>
 
 - [DIRE for Diffusion-Generated Image Detection](https://arxiv.org/abs/2303.09295) (Zhendong Wang et al., ICCV 2023) [:octocat:](https://github.com/ZhendongWang6/DIRE)
 
-<a href="#toc"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
+<p align="right"><a href="#toc">Back to TOC ↑</a></p>
 
 <h2 id='icpr22'>ICIP 2022</h2>
 
 - [Fusing global and local features for generalized ai-synthesized image detection](https://ieeexplore.ieee.org/abstract/document/9897820) (Yan Ju et al., ICIP 2022) [:octocat:](https://github.com/littlejuyan/FusingGlobalandLocal)
 
-<a href="#toc"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
+<p align="right"><a href="#toc">Back to TOC ↑</a></p>
 
 <h2 id='eccv22'>ECCV 2022</h2>
 
 - [Detecting generated images by real images](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136740089.pdf) (Bo Liu et al., ECCV 2022) [:octocat:](https://github.com/Tangsenghenshou/Detecting-Generated-Images-by-Real-Images)
 
-<a href="#toc"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
+<p align="right"><a href="#toc">Back to TOC ↑</a></p>
 
 <h2 id='cvpr20'>CVPR 2020</h2>
 
@@ -349,25 +349,25 @@ Use the Table of Contents to quickly browse the repository and jump to the secti
 
 - [CNNDetect: CNN-generated images are surprisingly easy to spot...for now](https://arxiv.org/abs/1912.11035) (Sheng-Yu Wang et al., CVPR 2020) [:globe_with_meridians:](https://peterwang512.github.io/CNNDetection/) [:octocat:](https://github.com/peterwang512/CNNDetection)
 
-<a href="#toc"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
+<p align="right"><a href="#toc">Back to TOC ↑</a></p>
 
 <h2 id='eccv20'>ECCV 2020</h2>
 
 - [What makes fake images detectable? Understanding properties that generalize](https://arxiv.org/abs/2008.10588) (Lucy Chai et al., ECCV 2020) [:globe_with_meridians:](https://chail.github.io/patch-forensics/) [:octocat:](https://github.com/chail/patch-forensics)
 
-<a href="#toc"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
+<p align="right"><a href="#toc">Back to TOC ↑</a></p>
 
 <h2 id='icml20'>ICML 2020</h2>
 
 - [Leveraging frequency analysis for deep fake image recognition](https://proceedings.mlr.press/v119/frank20a) (Joel Frank et al., ICML 2020) [:octocat:](https://github.com/RUB-SysSec/GANDCTAnalysis)
 
-<a href="#toc"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
+<p align="right"><a href="#toc">Back to TOC ↑</a></p>
 
 <h2 id='wifs19'>WIFS 2019</h2>
 
 - [Detecting and simulating artifacts in gan fake images](https://arxiv.org/pdf/1907.06515) (Xu Zhang et al., WIFS 2019) [:octocat:](https://github.com/ColumbiaDVMM/AutoGAN)
 
-<a href="#toc"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
+<p align="right"><a href="#toc">Back to TOC ↑</a></p>
 
 <h2 id='icassp25'>ICASSP</h2>
 
@@ -379,7 +379,7 @@ Use the Table of Contents to quickly browse the repository and jump to the secti
 
 - [On the detection of synthetic images generated by diffusion models](https://arxiv.org/abs/2211.00680) (Riccardo Corvi et al., ICASSP 2023) [:globe_with_meridians:](https://grip-unina.github.io/DMimageDetection/) [:octocat:](https://github.com/grip-unina/DMimageDetection)
 
-<a href="#toc"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
+<p align="right"><a href="#toc">Back to TOC ↑</a></p>
 
 <h2 id='#iclr26'>ICLR 2026 preprint</h2>
 
@@ -439,7 +439,7 @@ Use the Table of Contents to quickly browse the repository and jump to the secti
 
 - [HSIC Bottleneck for Cross-Generator and Domain-Incremental Synthetic Image Detection](https://openreview.net/forum?id=msLnKDvhBx)
 
-<a href="#toc"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
+<p align="right"><a href="#toc">Back to TOC ↑</a></p>
 
 <h2 id='arixv'>Arxiv</h2>
 
@@ -487,7 +487,7 @@ Use the Table of Contents to quickly browse the repository and jump to the secti
 
 - [PatchCraft: Exploring Texture Patch for Efficient AI-generated Image Detection](https://arxiv.org/abs/2311.12397v3) (Nan Zhong et al., arxiv 2023) [:globe_with_meridians:](https://fdmas.github.io/AIGCDetect/) [:octocat:](https://github.com/Ekko-zn/AIGCDetectBenchmark)
 
-<a href="#toc"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
+<p align="right"><a href="#toc">Back to TOC ↑</a></p>
 
 <h2 id='tools'>Tools</h2>
 
@@ -495,7 +495,7 @@ Use the Table of Contents to quickly browse the repository and jump to the secti
 
 - [PatchCraft: Exploring Texture Patch for Efficient AI-generated Image Detection](https://arxiv.org/abs/2311.12397v3) (Nan Zhong et al., arxiv 2023) [:globe_with_meridians:](https://fdmas.github.io/AIGCDetect/) [:octocat:](https://github.com/Ekko-zn/AIGCDetectBenchmark)
 
-<a href="#toc"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
+<p align="right"><a href="#toc">Back to TOC ↑</a></p>
 
 ## Citing Awesome AI-generated Image Detection
 
