@@ -19,7 +19,7 @@ If you want to contribute to this list, welcome to send me a pull request or con
 <h2 id="todos">TODOs</h2>
 
 - [ ] Add NeurIPS 2025 papers
-- [ ] Add ICCV 2025 papers
+- [x] Add ICCV 2025 papers
 
 ---
 
@@ -190,11 +190,11 @@ Use the Table of Contents to quickly browse the repository and jump to the secti
 
 - [LOTA: Bit-Planes Guided AI-Generated Image Detection](https://www.arxiv.org/abs/2510.14230) (Renxi Cheng et al., ICCV 2025)
 
-- [Forensic-MoE: Exploring Comprehensive Synthetic Image Detection Traces with Mixture of Experts] (Mingqi Fang et al., ICCV 2025)
+- [Forensic-MoE: Exploring Comprehensive Synthetic Image Detection Traces with Mixture of Experts](https://openaccess.thecvf.com/content/ICCV2025/html/Fang_Forensic-MoE_Exploring_Comprehensive_Synthetic_Image_Detection_Traces_with_Mixture_of_ICCV_2025_paper.html) (Mingqi Fang et al., ICCV 2025) [:octocat:](https://github.com/fangmq77/Forensic-MoE)
 
-- [Bridging the Gap Between Ideal and Real-world Evaluation: Benchmarking AI-Generated Image Detection in Challenging Scenarios] (Chunxiao Li et al., ICCV 2025)
+- [Bridging the Gap Between Ideal and Real-world Evaluation: Benchmarking AI-Generated Image Detection in Challenging Scenarios](https://arxiv.org/abs/2509.09172) (Chunxiao Li et al., ICCV 2025)
 
-- [Diffusion Epistemic Uncertainty with Asymmetric Learning for Diffusion-Generated Image Detection] (Yingsong Huang et al., ICCV 2025)
+- [Diffusion Epistemic Uncertainty with Asymmetric Learning for Diffusion-Generated Image Detection](https://openaccess.thecvf.com/content/ICCV2025/html/Huang_Diffusion_Epistemic_Uncertainty_with_Asymmetric_Learning_for_Diffusion-Generated_Image_Detection_ICCV_2025_paper.html) (Yingsong Huang et al., ICCV 2025)
 
 <!--D3: Training-Free AI-Generated Video Detection Using Second-Order Features-->
 
