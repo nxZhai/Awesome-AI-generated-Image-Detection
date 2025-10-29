@@ -70,6 +70,11 @@ Use the Table of Contents to quickly browse the repository and jump to the secti
         <li><a href="#aaai24">AAAI 2024</a></li>
       </ul>
     </li>
+    <li>MM
+      <ul>
+        <li><a href="#mm25">MM 2025</a></li>
+      </ul>
+    </li> 
     <li>KDD
       <ul>
         <li><a href="#kdd25">KDD 2025</a></li>
@@ -251,7 +256,13 @@ Use the Table of Contents to quickly browse the repository and jump to the secti
 
 <h2 id='aaai25'>AAAI 2025</h2>
 
-- [C2P-CLIP: Injecting Category Common Prompt in CLIP to Enhance Generalization in Deepfake Detection](https://arxiv.org/abs/2408.09647) (Chuangchuang Tan et al. AAAI 2025) [:octocat:](https://github.com/chuangchuangtan/C2P-CLIP-DeepfakeDetection)
+- [C2P-CLIP: Injecting Category Common Prompt in CLIP to Enhance Generalization in Deepfake Detection](https://arxiv.org/abs/2408.09647) (Chuangchuang Tan et al., AAAI 2025) [:octocat:](https://github.com/chuangchuangtan/C2P-CLIP-DeepfakeDetection)
+
+<p align="right"><a href="#toc">Back to TOC ↑</a></p>
+
+<h2 id='mm25'>MM 2025</h2>
+
+- [Towards Good Generalizations for Diffusion Generated Image Detection Using Multiple Reconstruction Contrastive Learning](https://dl.acm.org/doi/abs/10.1145/3746027.3754567) (Wanyi Zhuang et al., MM 2025)
 
 <p align="right"><a href="#toc">Back to TOC ↑</a></p>
 
